@@ -25,6 +25,7 @@ La toute première fois, l'application demande de créer le compte du propriéta
 - Après 5 erreurs de mot de passe, le compte est bloqué 15 minutes.
 - Conseillé : dans « Mon compte », activez la double authentification (un code à 6 chiffres sur votre téléphone s'ajoute au mot de passe).
 - Dans « Mon compte », renseignez le nom de l'entreprise, l'adresse, le téléphone, le numéro fiscal et le logo : ils apparaissent sur les factures.
+- Sur le tableau de bord, ouvrez « Personnaliser les indicateurs » pour masquer les chiffres dont vous n'avez pas besoin. Ce réglage est mémorisé pour votre compte sur cet appareil. Les boutons « Nouvelle vente » et « Encaisser un paiement » apparaissent selon vos droits.
 
 <a id="equipe"></a>
 ## 3. Votre équipe et les rôles
@@ -175,6 +176,7 @@ Onglet « Compta » (propriétaire, comptable, auditeur en lecture) : les écrit
 Vos données sont chiffrées sur le disque (AES-256) : un fichier copié, une sauvegarde ou une clé USB volés sont illisibles sans la clé.
 
 - Une sauvegarde automatique est faite chaque jour dans le dossier « sauvegardes » à côté de la base ; « Mon compte » permet aussi d'en faire une tout de suite ou d'en télécharger une.
+- **Si l'application est hébergée sur Railway** : les sauvegardes automatiques restent dans l'environnement Railway. Elles ne sont pas copiées sur votre PC, une clé USB ou un stockage cloud. Dans « Mon compte », cliquez régulièrement sur « Télécharger une sauvegarde complète », puis rangez le fichier dans un emplacement sûr séparé. Une sauvegarde externe automatique nécessite de configurer un fournisseur de stockage distinct.
 - Une copie sur le même disque ne protège pas d'une panne de disque : dans « Mon compte », section « Copie de secours hors de cet ordinateur », indiquez un dossier sur une clé USB, un disque externe ou un dossier synchronisé : chaque sauvegarde y est copiée automatiquement et vérifiée identique, et la page vous dit si la dernière copie a réussi. Si la clé est débranchée, la sauvegarde locale est faite quand même et l'échec est signalé.
 - CLÉ DE SECOURS : la clé de chiffrement est protégée par votre session Windows. Si elle est perdue (changement d'ordinateur, réinstallation de Windows), les données sont perdues. Imprimez-la maintenant : python -m gestion.chiffrement afficher-cle --oui (seul devant l'écran), et rangez le papier en lieu sûr.
 - Après la première mise en route du chiffrement, les anciennes copies en clair sont dans le dossier « clair_a_supprimer » : supprimez-les vous-même quand vous avez vérifié que tout fonctionne.

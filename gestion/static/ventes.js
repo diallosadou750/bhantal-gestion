@@ -33,6 +33,8 @@
     if (filters.q) { const s = $('#ssearch'); s.focus(); s.setSelectionRange(s.value.length, s.value.length); }
   }
 
+  G.openUnpaidSales = () => { filters.f = 'unpaid'; filters.q = ''; state.tab = 'ventes'; G.render(); };
+
   // ---------- formulaire de vente ----------
   function saleForm({ clientId }) {
     const vd = G.viewData();

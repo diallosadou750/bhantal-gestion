@@ -22,7 +22,7 @@
     const debtTotal = sum(debts, (p) => p.balance), debtLate = sum(debts.filter((p) => p.due_date && p.due_date < t), (p) => p.balance);
     const cashSt = can('cash.read') ? vd.cash : null, rt = vd.rentability;
     const monthExp = can('expenses.read_all') ? sum(vd.expenses.filter((e) => e.status === 'active' && e.expense_date.startsWith(month)), (e) => e.amount) : null;
-    const kpi = (label, value, cls) => h('div', { class: 'card kpi ' + (cls || '') }, h('div', { class: 'muted' }, label), h('strong', {}, value));
+    const kpi = (key, label, value, cls) => h('div', { class: 'card kpi ' + (cls || ''), 'data-kpi-key': key }, h('div', { class: 'muted' }, label), h('strong', {}, value));
     // ventes des 6 derniers mois (barres sans bibliothèque)
     const months = []; for (let i = 5; i >= 0; i--) { const d = new Date(); d.setDate(1); d.setMonth(d.getMonth() - i); months.push(`${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`); }
     const vals = months.map((m) => sum(act.filter((s) => s.sale_date.startsWith(m)), (s) => s.total)), max = Math.max(1, ...vals);
@@ -58,16 +58,23 @@
     const recDue = (state.data.recurring || []).reduce((a, r) => a + r.pending.length, 0);
     if (recDue) todo.push(`${recDue} dépense(s) récurrente(s) à générer (Caisse, Récurrentes).`);
     if (G.queue().length) todo.push(`${G.queue().length} opération(s) en attente d'envoi : reconnectez-vous pour les synchroniser.`);
+    const cards = [kpi('sales-today', 'Ventes du jour', money(salesToday)), kpi('cash-today', 'Encaissé aujourd\'hui', money(cashToday)), kpi('sales-month', 'Ventes du mois', money(salesMonth)), kpi('cash-month', 'Encaissé ce mois-ci', money(cashMonth)),
+      kpi('receivables', 'Créances (reste à encaisser)', money(due)), kpi('overdue', 'Dont en retard', money(overdue), overdue ? 'bad' : ''), kpi('late-deliveries', 'Livraisons en retard', String(lateDeliveries.length), lateDeliveries.length ? 'bad' : ''),
+      can('stock.read') && kpi('low-stock', 'Produits à commander', String(low.length), low.length ? 'bad' : ''), can('purchases.read') && kpi('supplier-debt', 'Dettes fournisseurs', money(debtTotal)), can('purchases.read') && kpi('supplier-overdue', 'Dettes en retard', money(debtLate), debtLate ? 'bad' : ''),
+      cashSt && kpi('cash-expected', 'Espèces attendues en caisse', money(cashSt.expected)), monthExp !== null && kpi('expenses-month', 'Dépenses du mois', money(monthExp)), rt && rt.breakeven && kpi('breakeven', 'Seuil de rentabilité atteint', (rt.reached > 9.99 ? 'plus de 999 %' : Math.round(rt.reached * 100) + ' %'), rt.reached < 1 ? 'bad' : '')].filter(Boolean);
+    const prefKey = 'bhantal-dashboard-kpis:' + state.me.username;
+    let hidden = []; try { hidden = JSON.parse(localStorage.getItem(prefKey) || '[]'); if (!Array.isArray(hidden)) hidden = []; } catch { hidden = []; }
+    const grid = h('div', { class: 'kpis' }, cards);
+    const settings = h('details', { class: 'dashboard-kpi-settings card' }, h('summary', {}, 'Personnaliser les indicateurs'), h('p', { class: 'muted' }, 'Choisissez les chiffres affichés sur votre tableau de bord. Ce réglage est propre à votre compte et à cet appareil.'),
+      h('div', { class: 'dashboard-kpi-options' }, cards.map((card) => { const key = card.dataset.kpiKey, title = card.querySelector('.muted').textContent, cb = h('input', { type: 'checkbox', checked: !hidden.includes(key), onchange: () => { card.hidden = !cb.checked; if (cb.checked) hidden = hidden.filter((x) => x !== key); else if (!hidden.includes(key)) hidden.push(key); try { localStorage.setItem(prefKey, JSON.stringify(hidden)); } catch { /* stockage indisponible */ } } }); return h('label', { class: 'dashboard-kpi-option' }, cb, title); })));
+    cards.forEach((card) => { card.hidden = hidden.includes(card.dataset.kpiKey); });
+    const quickActions = h('div', { class: 'dashboard-actions' }, can('sales.create') && h('button', { class: 'primary', type: 'button', onclick: () => G.saleForm({}) }, '＋ Nouvelle vente'), due > 0 && can('payments.create') && h('button', { class: 'secondary', type: 'button', onclick: () => G.openUnpaidSales() }, 'Encaisser un paiement'));
     view.replaceChildren(h('h1', {}, `Bonjour ${state.me.full_name.split(' ')[0]} 👋`), h('p', { class: 'muted' }, 'Données du ' + fmtDay(t) + (state.online ? '' : ' (hors connexion : dernière synchronisation)')),
-      h('div', { class: 'kpis' }, kpi('Ventes du jour', money(salesToday)), kpi('Encaissé aujourd\'hui', money(cashToday)), kpi('Ventes du mois', money(salesMonth)), kpi('Encaissé ce mois-ci', money(cashMonth)),
-        kpi('Créances (reste à encaisser)', money(due)), kpi('Dont en retard', money(overdue), overdue ? 'bad' : ''), kpi('Livraisons en retard', String(lateDeliveries.length), lateDeliveries.length ? 'bad' : ''),
-        can('stock.read') && kpi('Produits à commander', String(low.length), low.length ? 'bad' : ''), can('purchases.read') && kpi('Dettes fournisseurs', money(debtTotal)), can('purchases.read') && kpi('Dettes en retard', money(debtLate), debtLate ? 'bad' : ''),
-        cashSt && kpi('Espèces attendues en caisse', money(cashSt.expected)), monthExp !== null && kpi('Dépenses du mois', money(monthExp)), rt && rt.breakeven && kpi('Seuil de rentabilité atteint', (rt.reached > 9.99 ? 'plus de 999 %' : Math.round(rt.reached * 100) + ' %'), rt.reached < 1 ? 'bad' : '')),
+      quickActions, settings, grid,
       todo.length ? h('div', { class: 'card' }, h('h2', {}, 'À faire'), h('ul', {}, todo.map((x) => h('li', {}, x)))) : h('div', { class: 'ok-box' }, 'Rien d\'urgent 👍'),
       debtors.length > 0 && h('div', { class: 'card' }, h('h2', {}, 'Clients en retard'), debtors.map(([id, a]) => { const c = vd.clients.find((x) => x.id === id) || { name: '—' }, wa = c.phone ? G.waLink(c, a.overdue, true) : null;
         return h('div', { class: 'row' }, h('span', { class: 'grow' }, `${c.name} : ${money(a.overdue)} (${a.oldest} j) · Solde total : ${money(a.balance)}`), wa && h('a', { href: wa, target: '_blank', rel: 'noopener noreferrer' }, '💬 Relancer')); })),
-      h('div', { class: 'card' }, h('h2', {}, 'Ventes des 6 derniers mois'), bars), insightsBox,
-      can('sales.create') && h('p', {}, h('button', { class: 'primary', type: 'button', onclick: () => G.saleForm({}) }, '＋ Nouvelle vente')));
+      h('div', { class: 'card' }, h('h2', {}, 'Ventes des 6 derniers mois'), bars), insightsBox);
   }
   tabs.push({ id: 'tableau', label: 'Tableau', show: () => can('sales.read_all') || can('sales.read_own'), render });
 })();
