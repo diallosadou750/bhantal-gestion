@@ -4,6 +4,8 @@ Application **libre (AGPL-3.0)** de gestion commerciale et comptable pour petite
 
 > **État : version 0.43.** Disponible : comptes, rôles, journal d'audit infalsifiable, clients, catalogue, **ventes au comptant et à crédit, paiements, avoirs, créances, factures et reçus imprimables, tableau de bord, stocks, fournisseurs, achats, dépenses, caisse, rapprochement bancaire et comptabilité en partie double clôture d'exercice, amortissements, provisions, charges d'avance et états financiers de synthèse**, le tout avec synchronisation hors connexion. La suite (liasse officielle, rapports…) est décrite dans [ROADMAP.md](ROADMAP.md). Ne l'utilisez pas encore comme seul outil de comptabilité.
 
+**Guide pratique :** [consulter le guide PDF](output/pdf/Guide_utilisation_Bhantal.pdf) · [version modifiable](output/pdf/Guide_utilisation_Bhantal.md).
+
 ## Ce que fait l'application (détail par version)
 
 - **Comptes et rôles** : propriétaire, comptable, commercial, caissier. Un commercial ne voit que ses clients ; un caissier ne voit ni les notes ni les limites de crédit. Table des droits : `gestion/permissions.py`.
