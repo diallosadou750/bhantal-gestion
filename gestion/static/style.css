@@ -115,10 +115,11 @@ pre.card { white-space: pre-wrap; font: inherit; font-weight: 600; }
 html, body { width: 100%; min-width: 0; }
 body { overflow-x: clip; }
 main {
-  width: min(100%, 900px);
-  padding: clamp(10px, 2.5vw, 18px);
-  padding-inline: max(clamp(10px, 2.5vw, 18px), env(safe-area-inset-left));
-  padding-inline-end: max(clamp(10px, 2.5vw, 18px), env(safe-area-inset-right));
+  width: 100%;
+  max-width: none;
+  padding: clamp(12px, 2.2vw, 36px);
+  padding-inline-start: max(clamp(12px, 2.2vw, 36px), env(safe-area-inset-left));
+  padding-inline-end: max(clamp(12px, 2.2vw, 36px), env(safe-area-inset-right));
 }
 .top, .tabs, .demo { min-width: 0; }
 .top { flex-wrap: wrap; }
@@ -170,14 +171,11 @@ input[type="checkbox"], input[type="radio"] { width: auto; }
 /* Renforce le cadre de travail et donne plus d'espace aux chiffres importants. */
 body:has(.top:not([hidden])) main {
   background: var(--card);
-  border: 1px solid var(--line);
-  border-top: 0;
-  border-radius: 0 0 18px 18px;
-  box-shadow: 0 10px 28px rgba(17, 40, 24, .06);
+  border-top: 1px solid var(--line);
   min-height: calc(100vh - 108px);
   min-height: calc(100dvh - 108px);
 }
-.kpis { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.kpis { grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr)); gap: 12px; }
 .kpi {
   display: flex;
   flex-direction: column;
@@ -188,11 +186,16 @@ body:has(.top:not([hidden])) main {
 }
 .kpi .muted { line-height: 1.35; }
 .kpi strong { font-size: clamp(1rem, 2vw, 1.25rem); overflow-wrap: anywhere; }
+.dashboard-insights { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; }
+.dashboard-insights > .card { min-width: 0; margin: 0; }
 @media (max-width: 640px) {
-  body:has(.top:not([hidden])) main { min-height: calc(100vh - 90px); min-height: calc(100dvh - 90px); border-radius: 0 0 14px 14px; }
+  body:has(.top:not([hidden])) main { min-height: calc(100vh - 90px); min-height: calc(100dvh - 90px); }
+  main { padding-block: 12px; }
   .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
   .kpi { min-height: 86px; }
+  .dashboard-insights { grid-template-columns: minmax(0, 1fr); }
 }
+@media (max-width: 350px) { .kpis { grid-template-columns: minmax(0, 1fr); } }
 @media (max-width: 350px) {
   .kpis { grid-template-columns: minmax(0, 1fr); }
 }

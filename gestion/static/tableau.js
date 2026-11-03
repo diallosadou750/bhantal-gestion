@@ -27,7 +27,7 @@
     const months = []; for (let i = 5; i >= 0; i--) { const d = new Date(); d.setDate(1); d.setMonth(d.getMonth() - i); months.push(`${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`); }
     const vals = months.map((m) => sum(act.filter((s) => s.sale_date.startsWith(m)), (s) => s.total)), max = Math.max(1, ...vals);
     const bars = h('div', { class: 'bars', role: 'img', 'aria-label': 'Ventes des six derniers mois' }, months.map((m, i) => { const b = h('div', { class: 'bar' }); b.style.height = Math.max(2, Math.round(vals[i] / max * 100)) + '%'; b.title = money(vals[i]); return h('div', { class: 'barcol' }, b, h('span', { class: 'muted' }, m.slice(5) + '/' + m.slice(2, 4))); }));
-    const insightsBox = h('div', {});
+    const insightsBox = h('div', { class: 'dashboard-insights' });
     if (can('reports.read') && state.online) G.api('/api/reports/insights').then((r) => {
       const f = r.forecast, ok = r.reliability.filter((x) => x.score !== null);
       insightsBox.replaceChildren(
