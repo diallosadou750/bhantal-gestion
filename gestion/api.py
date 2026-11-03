@@ -931,7 +931,10 @@ def payslip_page(sid: str, ctx: Ctx = Depends(need("payroll.read"))):
 def readiness(request: Request, ctx: Ctx = Depends(need("audit.seal"))):
     from . import readiness as rd
     with db.read() as c:
-        return rd.compute(c, request.headers.get("host", ""), request.url.scheme)
+        scheme = request.url.scheme
+        forwarded = request.headers.get("x-forwarded-proto", "").split(",", 1)[0].strip().lower()
+        if forwarded in {"http", "https"}: scheme = forwarded
+        return rd.compute(c, request.headers.get("host", ""), scheme)
 
 
 class SealKeyIn(BaseModel):

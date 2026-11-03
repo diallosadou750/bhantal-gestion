@@ -22,6 +22,7 @@ def _age_days(ts: float) -> int:
 def compute(c: sqlite3.Connection, host: str = "", scheme: str = "http") -> dict:
     items: list[dict] = []
     add = lambda *a: items.append(_item(*a))
+    hosted_railway = host.lower().split(":", 1)[0].endswith(".up.railway.app") or str(config.data_dir()).replace("\\", "/").startswith("/data/")
     # mode démonstration
     if config.demo_mode(): add("demo", "todo", "Mode démonstration actif", "Les données sont fictives et l'entrée se fait sans identifiant.", "Lancez l'application normalement (lancer.bat), pas lancer_demo.bat.")
     # entreprise
@@ -52,7 +53,9 @@ def compute(c: sqlite3.Connection, host: str = "", scheme: str = "http") -> dict
         age = _age_days(max(p.stat().st_mtime for p in files))
         add("backup", "ok" if age <= 2 else "warn", "Sauvegardes", f"{len(files)} sauvegarde(s), la dernière date de {age} jour(s)." + ("" if age <= 2 else " La sauvegarde automatique ne tourne peut-être pas (ordinateur éteint ?)."), "" if age <= 2 else "Gardez l'ordinateur allumé la nuit ou faites une sauvegarde manuelle.")
     ex = backup.extra_status()
-    if not backup.extra_dir(): add("extra_copy", "warn", "Copie hors de l'ordinateur", "Aucune : un vol ou une panne emporterait aussi les sauvegardes.", "Mon compte > Copie de secours hors de cet ordinateur (clé USB, disque externe).")
+    if not backup.extra_dir():
+        if hosted_railway: add("extra_copy", "warn", "Copie hors de Railway", "Aucune copie téléchargée en dehors de l'environnement Railway.", "Mon compte > Télécharger une sauvegarde complète, puis conservez le fichier dans un emplacement sûr séparé.")
+        else: add("extra_copy", "warn", "Copie hors de l'ordinateur", "Aucune : un vol ou une panne emporterait aussi les sauvegardes.", "Mon compte > Copie de secours hors de cet ordinateur (clé USB, disque externe).")
     elif ex and not ex.get("ok"): add("extra_copy", "warn", "Copie hors de l'ordinateur", "La dernière copie a échoué : " + str(ex.get("message", "")), "Vérifiez que la clé USB ou le dossier est branché et accessible.")
     else: add("extra_copy", "ok", "Copie hors de l'ordinateur", "Active" + (f", dernière copie le {ex['ts'][:10]}." if ex else ", en attente de la prochaine sauvegarde."))
     # rappels e-mail
