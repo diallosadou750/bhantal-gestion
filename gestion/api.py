@@ -23,7 +23,7 @@ from .services import ServiceError, actor_of
 
 COOKIE = "gestion_session"
 STATIC = Path(__file__).resolve().parent / "static"
-CSP = ("default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'self'; "
+CSP = ("default-src 'self'; img-src 'self' data: blob:; style-src 'self'; script-src 'self'; connect-src 'self'; "
        "frame-ancestors 'none'; base-uri 'none'; form-action 'self'")
 
 @asynccontextmanager
