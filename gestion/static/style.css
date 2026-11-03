@@ -31,7 +31,7 @@ body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.45 syst
 .tabs .navrow { display: flex; align-items: center; gap: 8px; }
 .tabs .rang { display: flex; gap: 4px; overflow-x: auto; flex: 1 1 auto; min-width: 0; }
 .tabs .sous-select { width: auto; min-width: 150px; max-width: 230px; min-height: 38px; padding: 6px 32px 6px 10px; flex: 0 0 auto; }
-main { max-width: 980px; margin: 0 auto; padding: 16px; outline: none; }
+main { max-width: 900px; margin: 0 auto; padding: 16px; outline: none; }
 h1 { font-size: 1.35rem; margin: 4px 0 12px; } h2 { font-size: 1.1rem; margin: 0 0 8px; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; margin-bottom: 12px; }
 .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
@@ -76,6 +76,11 @@ dialog::backdrop { background: rgba(0,0,0,.45); }
 .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; margin-bottom: 12px; }
 .kpi { margin: 0; } .kpi strong { display: block; font-size: 1.25rem; margin-top: 4px; font-variant-numeric: tabular-nums; }
 .kpi.bad strong { color: var(--bad); }
+@media (min-width: 350px) and (max-width: 640px) {
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .kpi { padding: 11px; }
+  .kpi strong { font-size: 1.08rem; overflow-wrap: anywhere; }
+}
 .tbl { width: 100%; border-collapse: collapse; margin: 8px 0; } .tbl th, .tbl td { text-align: start; padding: 6px 8px; border-bottom: 1px solid var(--line); font-size: .93rem; }
 .tbl th { color: var(--muted); font-weight: 600; } .num { text-align: right !important; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .big { font-size: 1.15rem; font-weight: 700; margin: 8px 0; }
@@ -91,6 +96,10 @@ dialog h3 { margin: 14px 0 6px; font-size: 1rem; }
 pre.card { white-space: pre-wrap; font: inherit; font-weight: 600; }
 .barcol { min-width: 0; } .barcol span { white-space: nowrap; font-size: .7rem; } .bars { overflow: hidden; }
 .scroll { overflow-x: auto; }
+@media (max-width: 640px) {
+  .scroll { overscroll-behavior-inline: contain; }
+  .tbl th, .tbl td { padding: 6px; font-size: .85rem; }
+}
 .inv { width: 110px; }
 .bigger { font-size: 1.9rem; font-weight: 800; margin: 4px 0; font-variant-numeric: tabular-nums; }
 .neg { color: var(--bad); } .pos { color: var(--good); } textarea { resize: vertical; }
