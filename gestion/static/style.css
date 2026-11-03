@@ -111,6 +111,62 @@ pre.card { white-space: pre-wrap; font: inherit; font-weight: 600; }
 [dir=rtl] .num { text-align: left !important; }
 [dir=rtl] input, [dir=rtl] select, [dir=rtl] textarea { text-align: start; }
 
+/* Mise en page fluide : garde le contenu dans le cadre sur téléphone, tablette et grand écran. */
+html, body { width: 100%; min-width: 0; }
+body { overflow-x: clip; }
+main {
+  width: min(100%, 900px);
+  padding: clamp(10px, 2.5vw, 18px);
+  padding-inline: max(clamp(10px, 2.5vw, 18px), env(safe-area-inset-left));
+  padding-inline-end: max(clamp(10px, 2.5vw, 18px), env(safe-area-inset-right));
+}
+.top, .tabs, .demo { min-width: 0; }
+.top { flex-wrap: wrap; }
+.brand, .status, .tabs .navrow, .tabs .rang, main > *, .card, .row > *, .list > * { min-width: 0; }
+.brand strong { overflow: hidden; text-overflow: ellipsis; }
+.status { max-width: 100%; }
+.tabs { width: 100%; }
+.tabs .rang { scrollbar-width: thin; }
+.card, dialog { max-width: 100%; }
+img, video, canvas, iframe { max-width: 100%; }
+.scroll { width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.tbl { min-width: 100%; width: max-content; max-width: none; }
+.tbl th, .tbl td { overflow-wrap: anywhere; }
+input, select, textarea { min-width: 0; max-width: 100%; }
+button, a { overflow-wrap: anywhere; }
+input[type="checkbox"], input[type="radio"] { width: auto; }
+
+@media (min-width: 641px) {
+  .tabs { top: calc(54px + env(safe-area-inset-top)); }
+}
+@media (max-width: 640px) {
+  .top { padding-inline: max(10px, env(safe-area-inset-left)); padding-inline-end: max(10px, env(safe-area-inset-right)); }
+  .brand-logo { width: 44px; height: 30px; }
+  .brand strong { font-size: 13px; }
+  .status { justify-content: flex-start; gap: 4px; }
+  .pill { padding: 3px 8px; font-size: 12px; }
+  .tabs { position: relative; top: auto; padding-inline: max(6px, env(safe-area-inset-left)); padding-inline-end: max(6px, env(safe-area-inset-right)); }
+  .tabs .rang { padding-bottom: 2px; }
+  main { padding-block: 12px; }
+  .card { padding: 12px; }
+  .row { gap: 8px; }
+  .row > button, .row > .primary, .row > .secondary, .row > .danger { max-width: 100%; }
+  .center { width: 100%; margin: 2vh auto 0; }
+  .filters { grid-template-columns: minmax(0, 1fr); }
+  .scroll { overscroll-behavior-inline: contain; }
+  .tbl th, .tbl td { max-width: 70vw; }
+  .toast { width: max-content; max-width: calc(100vw - 24px); text-align: center; }
+}
+@media (max-width: 360px) {
+  body { font-size: 15px; }
+  .top { gap: 6px; padding-block: 8px; }
+  .brand { flex: 1 1 100%; }
+  .status { flex: 1 1 100%; }
+  h1 { font-size: 1.2rem; }
+  .card { padding: 10px; }
+  button.primary, button.secondary, button.danger, a.btn { padding-inline: 11px; }
+}
+
 /* Page d'aide */
 .help-section { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 4px 14px; margin: 8px 0; }
 .help-section summary { cursor: pointer; font-weight: 700; padding: 10px 0; }
