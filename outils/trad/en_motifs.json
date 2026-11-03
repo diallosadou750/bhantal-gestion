@@ -1,0 +1,398 @@
+[
+ {
+  "re": "^Dégressif \\(coefficient (.+)\\) : environ (.+) la première année \\((.+) par mois\\), puis des dotations qui baissent ; la méthode bascule d'elle-même en linéaire quand c'est plus avantageux, et la dernière année solde le bien\\.$",
+  "to": "Declining balance (coefficient $1): about $2 in the first year ($3 per month), then decreasing charges; the method switches to straight-line by itself when that is more favourable, and the last year clears the asset."
+ },
+ {
+  "re": "^Semaine \\+(\\d+) · (.+)$",
+  "to": "Week +$1 · $2"
+ },
+ {
+  "re": "^(.+) \\((\\d+)\\)$",
+  "to": "{t:1} ($2)"
+ },
+ {
+  "re": "^(\\d+) en stock$",
+  "to": "$1 in stock"
+ },
+ {
+  "re": "^À commander : (\\d+) en stock \\(seuil (\\d+)\\)$",
+  "to": "To reorder: $1 in stock (threshold $2)"
+ },
+ {
+  "re": "^Stock négatif \\((-?\\d+)\\) : achat non saisi \\?$",
+  "to": "Negative stock ($1): purchase not recorded?"
+ },
+ {
+  "re": "^(\\d+) ligne\\(s\\) de relevé bancaire ou mobile money à pointer \\(onglet Banque\\)\\.$",
+  "to": "$1 bank or mobile money statement line(s) to match (Bank tab)."
+ },
+ {
+  "re": "^(\\d+) livraison\\(s\\) en retard\\.$",
+  "to": "$1 overdue delivery(ies)."
+ },
+ {
+  "re": "^Relancer (\\d+) client\\(s\\) en retard de paiement \\((.+)\\)\\.$",
+  "to": "Chase $1 overdue customer(s) ($2)."
+ },
+ {
+  "re": "^Relancer les clients en retard de paiement \\((.+)\\)\\.$",
+  "to": "Chase the overdue customers ($1)."
+ },
+ {
+  "re": "^Réapprovisionner (\\d+) produit\\(s\\) : (.+)\\.$",
+  "to": "Restock $1 product(s): $2."
+ },
+ {
+  "re": "^Régler les fournisseurs en retard \\((.+)\\)\\.$",
+  "to": "Pay the overdue suppliers ($1)."
+ },
+ {
+  "re": "^Reste à livrer : (.+)$",
+  "to": "Still to deliver: $1"
+ },
+ {
+  "re": "^Reste (.+)$",
+  "to": "Balance $1"
+ },
+ {
+  "re": "^En retard (\\d+) j · reste (.+)$",
+  "to": "Overdue $1 d · balance $2"
+ },
+ {
+  "re": "^En retard : (.+) \\((\\d+) j\\)$",
+  "to": "Overdue: $1 ($2 d)"
+ },
+ {
+  "re": "^(.+) : ([\\d\\u00a0\\u202f ]+ GNF) \\((\\d+) j\\)$",
+  "to": "$1: $2 ($3 d)"
+ },
+ {
+  "re": "^Bonjour (.+) 👋$",
+  "to": "Hello $1 👋"
+ },
+ {
+  "re": "^Données du (.+?)( \\(hors connexion : dernière synchronisation\\))?$",
+  "to": "Data of $1$2"
+ },
+ {
+  "re": "^ \\(hors connexion : dernière synchronisation\\)$",
+  "to": " (offline: last sync)"
+ },
+ {
+  "re": "^Année (\\d+)$",
+  "to": "Year $1"
+ },
+ {
+  "re": "^Exercice (\\d+)$",
+  "to": "Fiscal year $1"
+ },
+ {
+  "re": "^Exercice (\\d+) : prêt à être clôturé$",
+  "to": "Fiscal year $1: ready to be closed"
+ },
+ {
+  "re": "^Préparer la clôture (\\d+)$",
+  "to": "Prepare the closing of $1"
+ },
+ {
+  "re": "^Clôturer l'exercice (\\d+)$",
+  "to": "Close fiscal year $1"
+ },
+ {
+  "re": "^Limite de crédit : (.+)$",
+  "to": "Credit limit: $1"
+ },
+ {
+  "re": "^Non échu : (.+)$",
+  "to": "Not yet due: $1"
+ },
+ {
+  "re": "^Retard (\\d+)–(\\d+) j : (.+)$",
+  "to": "Late $1–$2 d: $3"
+ },
+ {
+  "re": "^Plus de (\\d+) j : (.+)$",
+  "to": "Over $1 d: $2"
+ },
+ {
+  "re": "^Solde d'ouverture : (.+)$",
+  "to": "Opening balance: $1"
+ },
+ {
+  "re": "^Solde dû : (.+)$",
+  "to": "Balance due: $1"
+ },
+ {
+  "re": "^On lui doit (.+)$",
+  "to": "We owe them $1"
+ },
+ {
+  "re": "^Il faut (.+) de ventes pour couvrir les charges fixes$",
+  "to": "You need $1 of sales to cover fixed charges"
+ },
+ {
+  "re": "^Écart (.+)$",
+  "to": "Difference $1"
+ },
+ {
+  "re": "^Aujourd'hui : (.+) \\(caisse (.+) \\+ banques (.+)\\)$",
+  "to": "Today: $1 (cash $2 + banks $3)"
+ },
+ {
+  "re": "^Période du (.+) au (.+) · bilan au (.+) · en GNF$",
+  "to": "Period from $1 to $2 · balance sheet at $3 · in GNF"
+ },
+ {
+  "re": "^Période du (.+) au (.+)\\.$",
+  "to": "Period from $1 to $2."
+ },
+ {
+  "re": "^Bilan au (.+)$",
+  "to": "Balance sheet at $1"
+ },
+ {
+  "re": "^Attendu (.+) · départ (.+) · entrées (.+) · sorties (.+)$",
+  "to": "Expected $1 · opening $2 · in $3 · out $4"
+ },
+ {
+  "re": "^Départ : (.+) comptés le (.+)$",
+  "to": "Opening: $1 counted on $2"
+ },
+ {
+  "re": "^Avoirs de la période : (.+) \\(non déduits des marges ci-dessus\\)\\.$",
+  "to": "Credit notes of the period: $1 (not deducted from the margins above)."
+ },
+ {
+  "re": "^TVA sur ventes : (\\d+) % \\(à régler dans Mon compte\\)\\.$",
+  "to": "VAT on sales: $1% (set in My account)."
+ },
+ {
+  "re": "^Taux de TVA par défaut sur ventes : (\\d+) % · sur achats : (\\d+) % \\(chaque produit ou ligne peut avoir son propre taux\\)\\. (.+)$",
+  "to": "Default VAT rate on sales: $1% · on purchases: $2% (each product or line may have its own rate). {t:3}"
+ },
+ {
+  "re": "^échéance (.+)$",
+  "to": "due $1"
+ },
+ {
+  "re": "^valable jusqu'au (.+)$",
+  "to": "valid until $1"
+ },
+ {
+  "re": "^réf\\. (.+)$",
+  "to": "ref. $1"
+ },
+ {
+  "re": "^(\\d+) ligne\\(s\\)$",
+  "to": "$1 line(s)"
+ },
+ {
+  "re": "^⚠ (\\d+) refusée$",
+  "to": "⚠ $1 refused"
+ },
+ {
+  "re": "^⚠ dépasse (.+)$",
+  "to": "⚠ over $1"
+ },
+ {
+  "re": "^budget (.+)$",
+  "to": "budget $1"
+ },
+ {
+  "re": "^sans budget$",
+  "to": "no budget"
+ },
+ {
+  "re": "^(\\d+) échéance\\(s\\) à générer$",
+  "to": "$1 due date(s) to generate"
+ },
+ {
+  "re": "^(\\d+) à générer$",
+  "to": "$1 to generate"
+ },
+ {
+  "re": "^(\\d+) devis arrive\\(nt\\) à expiration cette semaine : relancer les clients \\((.+)\\)\\.$",
+  "to": "$1 quote(s) expire this week: chase the customers ($2)."
+ },
+ {
+  "re": "^(\\d+) dépense\\(s\\) récurrente\\(s\\) à générer \\(Caisse, Récurrentes\\)\\.$",
+  "to": "$1 recurring expense(s) to generate (Cash, Recurring)."
+ },
+ {
+  "re": "^(\\d+) opération\\(s\\) en attente d'envoi : reconnectez-vous pour les synchroniser\\.$",
+  "to": "$1 operation(s) waiting to be sent: reconnect to sync them."
+ },
+ {
+  "re": "^Clôturer la caisse \\(dernière clôture le (.+)\\)\\.$",
+  "to": "Close the cash register (last closing on $1)."
+ },
+ {
+  "re": "^⚠ (\\d+) clôture\\(s\\) de caisse modifiée\\(s\\) après coup : voir Caisse, Historique\\.$",
+  "to": "⚠ $1 cash register closing(s) changed afterwards: see Cash, History."
+ },
+ {
+  "re": "^(\\d+) connexion\\(s\\) fermée\\(s\\)\\.$",
+  "to": "$1 session(s) closed."
+ },
+ {
+  "re": "^(\\d+) dépense\\(s\\) créée\\(s\\)\\.?$",
+  "to": "$1 expense(s) created."
+ },
+ {
+  "re": "^Vente (FV-\\d+) enregistrée\\.$",
+  "to": "Sale $1 recorded."
+ },
+ {
+  "re": "^Devis (DV-\\d+) enregistré\\.$",
+  "to": "Quote $1 recorded."
+ },
+ {
+  "re": "^Bon (BL-\\d+) enregistré\\.$",
+  "to": "Delivery note $1 recorded."
+ },
+ {
+  "re": "^Avoir (AF-\\d+) enregistré\\.$",
+  "to": "Credit note $1 recorded."
+ },
+ {
+  "re": "^Transfert (TS-\\d+) enregistré\\.$",
+  "to": "Transfer $1 recorded."
+ },
+ {
+  "re": "^Virement (VI-\\d+) enregistré\\.$",
+  "to": "Bank transfer $1 recorded."
+ },
+ {
+  "re": "^Vente (FV-\\d+) enregistrée ✔$",
+  "to": "Sale $1 recorded ✔"
+ },
+ {
+  "re": "^Sauvegarde créée : (.+)$",
+  "to": "Backup created: $1"
+ },
+ {
+  "re": "^Stock ajusté : (-?\\d+) en stock\\.$",
+  "to": "Stock adjusted: $1 in stock."
+ },
+ {
+  "re": "^(\\d+) produit\\(s\\) comptés, (\\d+) écart\\(s\\)\\.$",
+  "to": "$1 product(s) counted, $2 difference(s)."
+ },
+ {
+  "re": "^Valeur des manques : (.+) · des excédents : (.+) \\(au coût moyen d'achat\\)\\.$",
+  "to": "Value of shortfalls: $1 · of surpluses: $2 (at average purchase cost)."
+ },
+ {
+  "re": "^Disponible dans « (.+) » : (\\d+)$",
+  "to": "Available in “$1”: $2"
+ },
+ {
+  "re": "^Stock actuel : (-?\\d+)(.*)$",
+  "to": "Current stock: $1$2"
+ },
+ {
+  "re": "^Solde de la provision : (.+)\\. Une reprise constate que le risque a diminué ou disparu : elle augmente le résultat\\.$",
+  "to": "Provision balance: $1. A reversal records that the risk has decreased or disappeared: it increases the result."
+ },
+ {
+  "re": "^Total net de l'achat : (.+) · reste dû : (.+)\\. Les marchandises rendues sortent du stock\\.$",
+  "to": "Net total of the purchase: $1 · balance due: $2. Returned goods leave the stock."
+ },
+ {
+  "re": "^Total (.+)\\. La vente suit toutes les règles d'une vente \\(limite de crédit, droits, stock\\)\\.$",
+  "to": "Total $1. The sale follows all the rules of a sale (credit limit, rights, stock)."
+ },
+ {
+  "re": "^Convertir (.+) en vente$",
+  "to": "Convert $1 into a sale"
+ },
+ {
+  "re": "^Modifier (.+)$",
+  "to": "Edit $1"
+ },
+ {
+  "re": "^Reprise sur (.+)$",
+  "to": "Reversal on $1"
+ },
+ {
+  "re": "^Sortir (.+)$",
+  "to": "Dispose of $1"
+ },
+ {
+  "re": "^Régler (.+)$",
+  "to": "Pay $1"
+ },
+ {
+  "re": "^Encaisser (.+)$",
+  "to": "Collect $1"
+ },
+ {
+  "re": "^Ajuster le stock : (.+)$",
+  "to": "Adjust the stock: $1"
+ },
+ {
+  "re": "^Bon de livraison · (.+)$",
+  "to": "Delivery note · $1"
+ },
+ {
+  "re": "^Avoir fournisseur · (.+)$",
+  "to": "Supplier credit note · $1"
+ },
+ {
+  "re": "^Livré à (.+)$",
+  "to": "Delivered to $1"
+ },
+ {
+  "re": "^Compte créé pour (.+)$",
+  "to": "Account created for $1"
+ },
+ {
+  "re": "^Motif de l'annulation de (.+) :$",
+  "to": "Reason for cancelling $1:"
+ },
+ {
+  "re": "^Motif de l'annulation de l'achat (.+) :$",
+  "to": "Reason for cancelling purchase $1:"
+ },
+ {
+  "re": "^Motif de l'annulation de la vente (.+) :$",
+  "to": "Reason for cancelling sale $1:"
+ },
+ {
+  "re": "^Motif du retrait de « (.+) » \\(la pièce reste dans la base, inaccessible, et le retrait est journalisé\\) :$",
+  "to": "Reason for removing “$1” (the file stays in the database, inaccessible, and the removal is logged):"
+ },
+ {
+  "re": "^Chaque échéance crée une vraie dépense (.*)$",
+  "to": "Each due date creates a real expense $1"
+ },
+ {
+  "re": "^Du (.+) au (.+) · clôturé le (.+)$",
+  "to": "From $1 to $2 · closed on $3"
+ },
+ {
+  "re": "^Affectation : (.+)$",
+  "to": "Allocation: $1"
+ },
+ {
+  "re": "^Résultat : (.+)$",
+  "to": "Result: $1"
+ },
+ {
+  "re": "^Vendu le (.+)$",
+  "to": "Sold on $1"
+ },
+ {
+  "re": "^Ventes du mois : (.+) \\($",
+  "to": "Sales of the month: $1 ("
+ },
+ {
+  "re": "^(.+) du seuil\\) · marge brute estimée (\\d+) %$",
+  "to": "$1 of the threshold) · estimated gross margin $2 %"
+ },
+ {
+  "re": "^(\\d+) %$",
+  "to": "$1 %"
+ }
+]

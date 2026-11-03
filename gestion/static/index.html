@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1e5b2b">
+  <meta name="color-scheme" content="light dark">
+  <title>Bhantal SARL — Gestion</title>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icon-192.png">
+  <link rel="stylesheet" href="/style.css?v=58">
+</head>
+<body>
+  <header class="top" id="top" hidden>
+    <div class="brand"><img class="brand-logo" src="/brand-bhantal.jpg" alt=""><strong>Bhantal SARL</strong></div>
+    <div class="status">
+      <button id="rejected" class="pill off btn-pill" type="button" hidden>⚠ 0 refusée</button>
+      <span id="net" class="pill ok">En ligne</span>
+      <button id="sync" class="pill btn-pill" type="button" title="Synchroniser maintenant"><span id="pending">0</span> en attente ⟳</button>
+    </div>
+  </header>
+  <div class="demo" id="demo" hidden></div>
+  <nav class="tabs" id="tabs" hidden></nav>
+  <main id="view" tabindex="-1"></main>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="dlg"></dialog>
+  <noscript>Cette application a besoin de JavaScript.</noscript>
+  <script src="/i18n.js?v=57"></script>
+  <script src="/app.js?v=57"></script>
+  <script src="/pieces.js"></script>
+  <script src="/tableau.js"></script>
+  <script src="/ventes.js?v=57"></script>
+  <script src="/relances.js"></script>
+  <script src="/devis.js"></script>
+  <script src="/clients.js"></script>
+  <script src="/produits.js?v=57"></script>
+  <script src="/achats.js"></script>
+  <script src="/caisse.js"></script>
+  <script src="/banque.js"></script>
+  <script src="/rapports.js"></script>
+  <script src="/compta.js"></script>
+  <script src="/paie.js"></script>
+  <script src="/rappels.js"></script>
+<script src="/admin.js?v=57"></script>
+<script src="/aide.js"></script>
+</body>
+</html>

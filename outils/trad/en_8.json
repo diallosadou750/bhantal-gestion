@@ -1,0 +1,7 @@
+{
+ "Linéaire (même dotation chaque année)": "Straight-line (same charge every year)",
+ "Dégressif (plus forte les premières années)": "Declining balance (higher in the first years)",
+ "Méthode d'amortissement": "Depreciation method",
+ "Coefficient dégressif (indicatif : 1,25 pour 3-4 ans, 1,75 pour 5-6 ans, 2,25 au-delà) — à faire valider": "Declining-balance coefficient (indicative: 1.25 for 3-4 years, 1.75 for 5-6 years, 2.25 beyond) — to be validated",
+ "Méthodes : linéaire, ou dégressif au choix (à partir de 3 ans), au mois entier à partir du mois de mise en service, dotation comptabilisée en fin de mois. Les durées par catégorie et les coefficients dégressifs sont indicatifs. Pas de distinction entre amortissement comptable et fiscal. À valider avec votre expert-comptable.": "Methods: straight-line, or declining balance if you choose (from 3 years), by whole month from the in-service month, charge booked at month end. Lives per category and declining coefficients are indicative. No distinction between book and tax depreciation. To be validated with your accountant."
+}

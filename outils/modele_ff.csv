@@ -1,0 +1,1676 @@
+﻿Français (source, ne pas modifier);English (aide);Traduction ff;Commentaire;Priorité (1 = à faire d'abord)
+Jnl;Jnl;;;1
+Lot;Batch;;;1
+Net;Net;;;1
+Nom;Name;;;1
+Qté;Qty;;;1
+TVA;VAT;;;1
+Avis;Opinion;;;1
+Brut;Gross;;;1
+Code;Code;;;1
+Coût;Cost;;;1
+Date;Date;;;1
+démo;demo;;;1
+Fixe;Fixed;;;1
+fixe;fixed;;;1
+Mode;Mode;;;1
+Mois;Month;;;1
+Note;Note;;;1
+Part;Share;;;1
+Prix;Price;;;1
+Rôle;Role;;;1
+Sens;Direction;;;1
+Taux;Rate;;;1
+Tous;All;;;1
+Tout;All;;;1
+Type;Type;;;1
+Zone;Area;;;1
+État;Status;;;1
+ACTIF;ASSETS;;;1
+Actif;Active;;;1
+Année;Year;;;1
+Autre;Other;;;1
+Avoir;Credit note;;;1
+Bilan;Balance sheet;;;1
+Cumul;Cumulative;;;1
+Devis;Quotes;;;1
+DEVIS;QUOTE;;;1
+Débit;Debit;;;1
+Dépôt;Warehouse;;;1
+Marge;Margin;;;1
+Motif;Reason;;;1
+Mvt C;Mvt Cr;;;1
+Mvt D;Mvt Dr;;;1
+Nom *;Name *;;;1
+nom :;name:;;;1
+Pièce;Attachment;;;1
+Reste;Balance;;;1
+Réglé;Paid;;;1
+Solde;Balance;;;1
+Stock;Stock;;;1
+Total;Total;;;1
+Unité;Unit;;;1
+Vente;Sale;;;1
+ÉCART;DIFFERENCE;;;1
+Écart;Difference;;;1
+écart;difference;;;1
+Achats;Purchases;;;1
+Action;Action;;;1
+Annulé;Cancelled;;;1
+annulé;cancelled;;;1
+Avoirs;Credit notes;;;1
+Banque;Bank;;;1
+Budget;Budget;;;1
+budget;budget;;;1
+Caisse;Cash;;;1
+Charge;Expense;;;1
+Chèque;Cheque;;;1
+Client;Customer;;;1
+Code :;Code:;;;1
+Compta;Accounting;;;1
+Compte;Account;;;1
+Compté;Counted;;;1
+compté;counted;;;1
+Copier;Copy;;;1
+Copié.;Copied.;;;1
+coût :;cost:;;;1
+Crédit;Credit;;;1
+Date :;Date:;;;1
+Dettes;Debts;;;1
+déduit;deducted;;;1
+Dépôts;Warehouses;;;1
+Détail;Details;;;1
+Erreur;Error;;;1
+ERREUR;ERROR;;;1
+Expiré;Expired;;;1
+Fermer;Close;;;1
+Fiable;Reliable;;;1
+jamais;never;;;1
+La fin;The end;;;1
+Langue;Language;;;1
+Lignes;Lines;;;1
+Mode :;Method:;;;1
+Nature;Nature;;;1
+Normal;Normal;;;1
+Note :;Note:;;;1
+Numéro;Number;;;1
+Ouv. C;Open. Cr;;;1
+Ouv. D;Open. Dr;;;1
+Ouvert;Open;;;1
+PASSIF;LIABILITIES;;;1
+PÉRIMÉ;EXPIRED;;;1
+Raison;Reason;;;1
+Refusé;Declined;;;1
+refusé;refused;;;1
+Remise;Discount;;;1
+Repris;Reversed;;;1
+Repère;Guide;;;1
+Retard;Delay;;;1
+Retour;Back;;;1
+Risqué;Risky;;;1
+Régler;Pay;;;1
+Soldée;Settled;;;1
+Sortie;Out;;;1
+Stocks;Stock;;;1
+Totaux;Totals;;;1
+Toutes;All;;;1
+Type :;Type:;;;1
+Valeur;Value;;;1
+Ventes;Sales;;;1
+vers :;to:;;;1
+Zone :;Area:;;;1
+écarts;differences;;;1
+Équipe;Team;;;1
+État :;Status:;;;1
+Acompte;Deposit;;;1
+Activer;Enable;;;1
+Adresse;Address;;;1
+Ajouter;Add;;;1
+Annuler;Cancel;;;1
+Annulée;Cancelled;;;1
+annulée;cancelled;;;1
+Article;Item;;;1
+Attendu;Expected;;;1
+Balance;Trial balance;;;1
+Banques;Banks;;;1
+Bonjour;Hello;;;1
+Ce mois;This month;;;1
+Changer;Change;;;1
+CHARGES;EXPENSES;;;1
+Clients;Customers;;;1
+Clôture;Closing;;;1
+Clôturé;Closed;;;1
+Compris;Included;;;1
+Espèces;Cash;;;1
+FACTURE;INVOICE;;;1
+Facture;Invoice;;;1
+Journal;Audit log;;;1
+L'unité;The unit;;;1
+La date;The date;;;1
+La note;The note;;;1
+La zone;The area;;;1
+Le code;The code;;;1
+Le prix;The price;;;1
+Libellé;Description;;;1
+Marge %;Margin %;;;1
+Modifié;Changed;;;1
+Montant;Amount;;;1
+montant;amount;;;1
+Motif :;Reason:;;;1
+Ouverts;Open;;;1
+Pointer;Match;;;1
+Produit;Product;;;1
+Période;Period;;;1
+Retards;Delays;;;1
+Retirer;Remove;;;1
+Rouvrir;Reopen;;;1
+solde :;balance:;;;1
+Solde C;Closing Cr;;;1
+Solde D;Closing Dr;;;1
+Tableau;Dashboard;;;1
+Terminé;Done;;;1
+Total :;Total:;;;1
+Vendeur;Salesperson;;;1
+Vente :;Sale:;;;1
+vente :;sale:;;;1
+À faire;To do;;;1
+À payer;To pay;;;1
+ÉCART :;DIFFERENCE:;;;1
+Écart :;Difference:;;;1
+＋ Ligne;＋ Line;;;1
+🏷️ Lots;🏷️ Batches;;;1
+Annulée.;Cancelled.;;;1
+Annulées;Cancelled;;;1
+Appareil;Device;;;1
+Auditeur;Auditor;;;1
+Caissier;Cashier;;;1
+Client :;Customer:;;;1
+Clôturer;Close;;;1
+Comptant;Cash;;;1
+compte :;account:;;;1
+Compté :;Counted:;;;1
+Créances;Receivables;;;1
+Dotation;Charge;;;1
+Du dépôt;From warehouse;;;1
+Dépenses;Expenses;;;1
+détail :;details:;;;1
+En cours;In progress;;;1
+En ligne;Online;;;1
+Exercice;Fiscal year;;;1
+Exporter;Export;;;1
+Impayées;Unpaid;;;1
+Importer;Import;;;1
+Imprimer;Print;;;1
+Intitulé;Title;;;1
+Le début;The start;;;1
+Le motif;The reason;;;1
+Lignes :;Lines:;;;1
+lignes :;lines:;;;1
+Modifié.;Changed.;;;1
+nature :;nature:;;;1
+Non échu;Not yet due;;;1
+Numéro :;Number:;;;1
+numéro :;number:;;;1
+Pointage;Matching;;;1
+Pointées;Matched;;;1
+Position;Position;;;1
+PRODUITS;INCOME;;;1
+Quantité;Quantity;;;1
+Rapports;Reports;;;1
+Renommer;Rename;;;1
+Reste dû;Balance due;;;1
+Reçu par;Received by;;;1
+Rubrique;Item;;;1
+Réglages;Settings;;;1
+réglages;settings;;;1
+Réserves;Reserves;;;1
+RÉSULTAT;RESULT;;;1
+Salaires;Salaries;;;1
+Supprimé;Deleted;;;1
+Synthèse;Summary;;;1
+Terrains;Land;;;1
+Total dû;Total due;;;1
+Un devis;A quote;;;1
+Validité;Validity;;;1
+Variable;Variable;;;1
+variable;variable;;;1
+À crédit;On credit;;;1
+À livrer;To deliver;;;1
+écarts :;differences:;;;1
+Échéance;Due date;;;1
+＋ Étaler;＋ Spread;;;1
+🏬 Dépôts;🏬 Warehouses;;;1
+📎 Pièces;📎 Attachments;;;1
+🧾 Vendre;🧾 Sell;;;1
+Acquis le;Acquired on;;;1
+Annulée :;Cancelled:;;;1
+Appliquer;Apply;;;1
+Attendu :;Expected:;;;1
+Bâtiments;Buildings;;;1
+Catégorie;Category;;;1
+Collectée;Collected;;;1
+Comptable;Accountant;;;1
+Connexion;Sign in;;;1
+Constitué;Set up;;;1
+Du compte;From account;;;1
+Dépense :;Expense:;;;1
+dépense :;expense:;;;1
+En retard;Overdue;;;1
+Encaisser;Collect;;;1
+Hors taxe;Excl. tax;;;1
+libellé :;description:;;;1
+Livraison;Delivery;;;1
+Livrée le;Delivered on;;;1
+Logiciels;Software;;;1
+Montant :;Amount:;;;1
+montant :;amount:;;;1
+N° de lot;Batch number;;;1
+origine :;origin:;;;1
+Paiements;Payments;;;1
+produit :;product:;;;1
+période :;period:;;;1
+remboursé;refunded;;;1
+Règlement;Payment;;;1
+Réactiver;Re-enable;;;1
+Réessayer;Try again;;;1
+Référence;Reference;;;1
+Réglé par;Paid by;;;1
+Situation;Position;;;1
+Supprimer;Delete;;;1
+Total TTC;Total incl. tax;;;1
+Téléphone;Phone;;;1
+Une vente;A sale;;;1
+Virements;Transfers;;;1
+± Ajuster;± Adjust;;;1
+à générer;to generate;;;1
+À pointer;To match;;;1
+Écritures;Entries;;;1
+Équilibré;Balanced;;;1
+équilibré;balanced;;;1
+Évolution;Change;;;1
+− Dépense;− Expense;;;1
+✔ Pointer;✔ Match;;;1
+＋ Ajouter;＋ Add;;;1
+🏷️ Lots ⚠;🏷️ Batches ⚠;;;1
+📞 Appeler;📞 Call;;;1
+📦 Acheter;📦 Buy;;;1
+🗑 Retirer;🗑 Remove;;;1
+Appareil :;Device:;;;1
+Assurances;Insurance;;;1
+Avoir créé;Credit note created;;;1
+Commercial;Salesperson;;;1
+Devis créé;Quote created;;;1
+Données du;Data of;;;1
+Dépointage;Unmatching;;;1
+Dépôt créé;Warehouse created;;;1
+Désactiver;Disable;;;1
+En service;In service;;;1
+Entreprise;Company;;;1
+Historique;History;;;1
+Inventaire;Stock count;;;1
+L'intitulé;The title;;;1
+Le libellé;The description;;;1
+Le montant;The amount;;;1
+Livraisons;Deliveries;;;1
+Mon compte;My account;;;1
+Provisions;Provisions;;;1
+Péremption;Expiry;;;1
+Qté vendue;Qty sold;;;1
+quantité :;quantity:;;;1
+Rapprocher;Reconcile;;;1
+Rechercher;Search;;;1
+reçu par :;received by:;;;1
+Règlements;Payments;;;1
+Résultat :;Result:;;;1
+Transferts;Transfers;;;1
+Transférer;Transfer;;;1
+Échéance :;Due date:;;;1
+💬 Relancer;💬 Remind;;;1
+💬 WhatsApp;💬 WhatsApp;;;1
+🗑️ Retirer;🗑️ Remove;;;1
+Aucun écart;No difference;;;1
+Aujourd'hui;Today;;;1
+automatique;automatic;;;1
+Bienvenue 👋;Welcome 👋;;;1
+CA · Caisse;CA · Cash;;;1
+Catégorie :;Category:;;;1
+catégorie :;category:;;;1
+Cette année;This year;;;1
+Chargement…;Loading…;;;1
+Client créé;Customer created;;;1
+Description;Description;;;1
+Déconnexion;Sign out;;;1
+Déjà repris;Already reversed;;;1
+Désignation;Description;;;1
+Enregistrer;Save;;;1
+Fournisseur;Supplier;;;1
+Grand livre;General ledger;;;1
+Identifiant;Username;;;1
+La quantité;The quantity;;;1
+Logo actuel;Current logo;;;1
+Montant TTC;Amount incl. tax;;;1
+Nom complet;Full name;;;1
+Règlement :;Payment:;;;1
+règlement :;payment:;;;1
+Récupérable;Recoverable;;;1
+Récurrentes;Recurring;;;1
+Référence :;Reference:;;;1
+solde débit;closing debit;;;1
+TOTAL ACTIF;TOTAL ASSETS;;;1
+Total actif;Total assets;;;1
+Utilisateur;User;;;1
+VE · Ventes;VE · Sales;;;1
+À commander;To reorder;;;1
+À encaisser;To collect;;;1
+à justifier;to justify;;;1
+— Choisir —;— Choose —;;;1
+✏️ Modifier;✏️ Edit;;;1
+Accès refusé;Access denied;;;1
+Achat annulé;Purchase cancelled;;;1
+Bénéficiaire;Payee;;;1
+CA hors taxe;Revenue excl. tax;;;1
+Charger plus;Load more;;;1
+Comptabilité;Accounting;;;1
+Date d'achat;Purchase date;;;1
+Devis refusé;Quote refused;;;1
+Désactiver «;Disable “;;;1
+en attente ⟳;pending ⟳;;;1
+Fournisseurs;Suppliers;;;1
+La catégorie;The category;;;1
+La référence;The reference;;;1
+Marchandises;Goods;;;1
+Mobile money;Mobile money;;;1
+Mot de passe;Password;;;1
+Non attribué;Unassigned;;;1
+Note interne;Internal note;;;1
+Orange Money;Orange Money;;;1
+Panier moyen;Average basket;;;1
+Pas de logo.;No logo.;;;1
+Pied de page;Footer;;;1
+Produit créé;Product created;;;1
+Propriétaire;Owner;;;1
+Provisionner;Provision;;;1
+Retard moyen;Average delay;;;1
+RÉSULTAT NET;NET RESULT;;;1
+Se connecter;Sign in;;;1
+solde crédit;closing credit;;;1
+Taux de taxe;Tax rate;;;1
+TOTAL PASSIF;TOTAL LIABILITIES;;;1
+Total passif;Total liabilities;;;1
+Type d'achat;Purchase type;;;1
+Valeur nette;Net value;;;1
+À la date du;As of;;;1
+À surveiller;Watch;;;1
+— Sans lot —;— No batch —;;;1
+📋 Inventaire;📋 Stock count;;;1
+🗑️ Supprimer;🗑️ Delete;;;1
+? À justifier;? To justify;;;1
+Accès refusé.;Access denied.;;;1
+Acompte versé;Deposit paid;;;1
+Aujourd'hui :;Today:;;;1
+Cette semaine;This week;;;1
+Date du devis;Quote date;;;1
+Description :;Description:;;;1
+Dépôt modifié;Warehouse changed;;;1
+désignation :;description:;;;1
+Fournisseur :;Supplier:;;;1
+Gestion libre;Gestion libre;;;1
+Marge estimée;Estimated margin;;;1
+Nom du compte;Account name;;;1
+Nouveau devis;New quote;;;1
+Nouveau dépôt;New warehouse;;;1
+Prix unitaire;Unit price;;;1
+Rapprochement;Reconciliation;;;1
+Rôle inconnu.;Unknown role.;;;1
+Sort du dépôt;Leaves from warehouse;;;1
+Synchronisé ✔;Synced ✔;;;1
+Taux de marge;Margin rate;;;1
+Type de vente;Sale type;;;1
+Vente annulée;Sale cancelled;;;1
+Vente refusée;Sale refused;;;1
+Vers le dépôt;To warehouse;;;1
+À justifier :;To justify:;;;1
+État, TVA due;State, VAT due;;;1
+＋ Fournisseur;＋ Supplier;;;1
+🏷️ Catégories;🏷️ Categories;;;1
+Amort. cumulés;Accum. depr.;;;1
+Amortissements;Depreciation;;;1
+Autres charges;Other expenses;;;1
+Base hors taxe;Tax-exclusive base;;;1
+Bientôt périmé;Expires soon;;;1
+Budget modifié;Budget changed;;;1
+Bénéficiaire :;Payee:;;;1
+Caisse du jour;Today's cash;;;1
+Capital social;Share capital;;;1
+Cet appareil :;This device:;;;1
+Client modifié;Customer changed;;;1
+Créer la vente;Create the sale;;;1
+Date du relevé;Statement date;;;1
+Dont en retard;Of which overdue;;;1
+Hausse de prix;Price increase;;;1
+La description;The description;;;1
+La désignation;The description;;;1
+Le commentaire;The comment;;;1
+Ligne de vente;Sale line;;;1
+Mes connexions;My sessions;;;1
+Nouveau client;New customer;;;1
+Nouveau compte;New account;;;1
+Nouvelle vente;New sale;;;1
+Pièce retirée.;Attachment removed.;;;1
+Pièces jointes;Attachments;;;1
+Plan comptable;Chart of accounts;;;1
+Produits finis;Finished products;;;1
+Quantité reçue;Quantity received;;;1
+Rapprochements;Reconciliations;;;1
+Relevé importé;Statement imported;;;1
+Reste à étaler;Left to spread;;;1
+Se déconnecter;Sign out;;;1
+Seuil d'alerte;Alert threshold;;;1
+Solde du livre;Book balance;;;1
+stock actuel :;current stock:;;;1
+Suivi du stock;Stock tracking;;;1
+VALEUR AJOUTÉE;VALUE ADDED;;;1
+Vente annulée.;Sale cancelled.;;;1
+Ventes du jour;Today's sales;;;1
+Ventes du mois;Sales of the month;;;1
+Vers le compte;To account;;;1
+＋ Nouvel achat;＋ New purchase;;;1
+📦 Nouvel achat;📦 New purchase;;;1
+Annuler l'achat;Cancel the purchase;;;1
+Aucun résultat.;No results.;;;1
+Caisse clôturée;Cash register closed;;;1
+Changer le rôle;Change the role;;;1
+Chèques postaux;Postal cheques;;;1
+Client supprimé;Customer deleted;;;1
+Compte bancaire;Bank account;;;1
+Créer le compte;Create the account;;;1
+Date de clôture;Closing date;;;1
+Date de l'achat;Purchase date;;;1
+Dépense annulée;Expense cancelled;;;1
+Dépense refusée;Expense refused;;;1
+Dépôt de sortie;Issuing warehouse;;;1
+Dépôt principal;Main warehouse;;;1
+Exporter en CSV;Export as CSV;;;1
+Exporter en PDF;Export as PDF;;;1
+Frais bancaires;Bank charges;;;1
+Gains de change;Exchange gains;;;1
+Immobilisations;Fixed assets;;;1
+Impôts et taxes;Taxes and duties;;;1
+Journal d'audit;Audit log;;;1
+Journal exporté;Audit log exported;;;1
+Le bénéficiaire;The payee;;;1
+Le jour du mois;The day of the month;;;1
+Le nom du dépôt;The warehouse name;;;1
+Ligne pointée ✔;Line matched ✔;;;1
+lignes créées :;lines created:;;;1
+Nouveau produit;New product;;;1
+ouverture débit;opening debit;;;1
+Paiement annulé;Payment cancelled;;;1
+Payé à la vente;Paid at the sale;;;1
+Pointage annulé;Matching cancelled;;;1
+Produit modifié;Product changed;;;1
+Quantité livrée;Quantity delivered;;;1
+Quantité rendue;Quantity returned;;;1
+Rapport exporté;Report exported;;;1
+Reprise refusée;Reversal refused;;;1
+Retirer le logo;Remove the logo;;;1
+Rien d'urgent 👍;Nothing urgent 👍;;;1
+Services vendus;Services sold;;;1
+Solde du relevé;Statement balance;;;1
+TVA de la ligne;Line VAT;;;1
+Ventes par mois;Sales by month;;;1
+Virement refusé;Bank transfer refused;;;1
+Zone / quartier;Area / neighbourhood;;;1
+＋ Nouveau devis;＋ New quote;;;1
+Achat enregistré;Purchase recorded;;;1
+Ajouter au stock;Add to stock;;;1
+Annuler la vente;Cancel the sale;;;1
+Apport du patron;Owner's contribution;;;1
+Autres matériels;Other equipment;;;1
+BON DE LIVRAISON;DELIVERY NOTE;;;1
+Budget mensuel :;Monthly budget:;;;1
+Capitaux propres;Equity;;;1
+Charges d'avance;Prepaid expenses;;;1
+Charges diverses;Sundry expenses;;;1
+Charges sociales;Social charges;;;1
+Clôture de devis;Quote closing;;;1
+Compte créé pour;Account created for;;;1
+Connexion fermée;Session closed;;;1
+Coût moyen unit.;Avg. unit cost;;;1
+Créances clients;Customer receivables;;;1
+Créer et pointer;Create and match;;;1
+Créer la dépense;Create the expense;;;1
+Date de la vente;Sale date;;;1
+Date du paiement;Payment date;;;1
+Dettes en retard;Overdue debts;;;1
+Dotation période;Period charge;;;1
+Déjà au résultat;Already in the result;;;1
+Dépenses du mois;Expenses of the month;;;1
+Dépôt inventorié;Warehouse counted;;;1
+Dépôts en banque;Bank deposits;;;1
+Exercice clôturé;Fiscal year closed;;;1
+Fournisseur créé;Supplier created;;;1
+Import de relevé;Statement import;;;1
+Le nom du compte;The account name;;;1
+Lignes à pointer;Lines to match;;;1
+Limite de crédit;Credit limit;;;1
+Livraison prévue;Planned delivery;;;1
+Marge par client;Margin by customer;;;1
+Mode de paiement;Payment method;;;1
+Montant à étaler;Amount to spread;;;1
+mouvements débit;movements debit;;;1
+Nombre de ventes;Number of sales;;;1
+Nouveau paiement;New payment;;;1
+Nouvelle dépense;New expense;;;1
+N° fiscal / RCCM;Tax ID / trade register no.;;;1
+ouverture crédit;opening credit;;;1
+Part de la marge;Share of margin;;;1
+Passif circulant;Current liabilities;;;1
+Pertes de change;Exchange losses;;;1
+Peu d'historique;Little history;;;1
+Produit supprimé;Product deleted;;;1
+Période couverte;Covered period;;;1
+Quantité comptée;Counted quantity;;;1
+Requête refusée.;Request refused.;;;1
+Reste à livrer :;Still to deliver:;;;1
+Retirer du stock;Remove from stock;;;1
+Retrait de ligne;Line removal;;;1
+REÇU DE PAIEMENT;PAYMENT RECEIPT;;;1
+Rupture de stock;Out of stock;;;1
+Réapprovisionner;Restock;;;1
+Sauvegarde créée;Backup created;;;1
+Solde de clôture;Closing balance;;;1
+Transfert refusé;Transfer refused;;;1
+Trésorerie-actif;Cash (assets);;;1
+Utilisateur créé;User created;;;1
+Valable jusqu'au;Valid until;;;1
+Virement annulé.;Bank transfer cancelled.;;;1
+États financiers;Financial statements;;;1
+— non attribué —;— unassigned —;;;1
+＋ Nouveau client;＋ New customer;;;1
+＋ Nouveau modèle;＋ New template;;;1
+＋ Nouvelle vente;＋ New sale;;;1
+Achats et charges;Purchases and expenses;;;1
+Ajouter un compte;Add an account;;;1
+Ajouter une pièce;Add an attachment;;;1
+Apports du patron;Owner's contributions;;;1
+Clients en retard;Overdue customers;;;1
+Clôture de caisse;Cash register closing;;;1
+Compte verrouillé;Account locked;;;1
+Date de livraison;Delivery date;;;1
+Date du mouvement;Movement date;;;1
+Date du règlement;Payment date;;;1
+Facture concernée;Invoice concerned;;;1
+La TVA du produit;The product's VAT;;;1
+Le budget mensuel;The monthly budget;;;1
+Le montant repris;The amount reversed;;;1
+Le nom du produit;The product name;;;1
+Le seuil d'alerte;The alert threshold;;;1
+Ligne à justifier;Line to justify;;;1
+lignes pointées :;lines matched:;;;1
+MARGE COMMERCIALE;GROSS TRADING MARGIN;;;1
+Marge par produit;Margin by product;;;1
+Montant constitué;Amount set up;;;1
+mouvements crédit;movements credit;;;1
+Ouvrir la facture;Open the invoice;;;1
+Payé à la vente :;Paid at the sale:;;;1
+Provision annulée;Provision cancelled;;;1
+Provision refusée;Provision refused;;;1
+Remises accordées;Discounts granted;;;1
+Reçu introuvable.;Receipt not found.;;;1
+Total des charges;Total expenses;;;1
+Trésorerie-passif;Cash (liabilities);;;1
+Valider la sortie;Confirm the disposal;;;1
+Vente enregistrée;Sale recorded;;;1
+Verrou de période;Period lock;;;1
+Virement bancaire;Bank transfer;;;1
+Écriture manuelle;Manual entry;;;1
+— Autre article —;— Other item —;;;1
+✔ Tout est livré.;✔ Everything is delivered.;;;1
+＋ Nouveau produit;＋ New product;;;1
+Annulation d'achat;Purchase cancellation;;;1
+CA sans coût connu;Revenue with no known cost;;;1
+Caisse et dépenses;Cash and expenses;;;1
+Chiffre d'affaires;Revenue;;;1
+Clôture d'exercice;Fiscal year closing;;;1
+Clôturer la caisse;Close the cash register;;;1
+Clôtures de caisse;Cash register closings;;;1
+Compte de résultat;Income statement;;;1
+Date de l'écriture;Entry date;;;1
+Date de la cession;Disposal date;;;1
+Date de la dépense;Expense date;;;1
+Date de péremption;Expiry date;;;1
+dont charges fixes;of which fixed charges;;;1
+déduit de la dette;deducted from the debt;;;1
+Déduit du solde dû;Deducted from the balance due;;;1
+Dépôt de réception;Receiving warehouse;;;1
+Dépôt introuvable.;Warehouse not found.;;;1
+Encaissé à ce jour;Collected to date;;;1
+Enregistrer le bon;Save the note;;;1
+Génération refusée;Generation refused;;;1
+Importer un relevé;Import a statement;;;1
+Intérêts d'emprunt;Loan interest;;;1
+La durée en années;The period in years;;;1
+Le prix de cession;The disposal price;;;1
+Le solde du relevé;The statement balance;;;1
+Limite de crédit :;Credit limit:;;;1
+Mobilier de bureau;Office furniture;;;1
+Mode démonstration;Demonstration mode;;;1
+Modifier le client;Edit the customer;;;1
+Nouvelle provision;New provision;;;1
+Opération refusée.;Operation refused.;;;1
+Pièce introuvable.;Attachment not found.;;;1
+Primes d'assurance;Insurance premiums;;;1
+produits comptés :;products counted:;;;1
+Reçu dans le dépôt;Received in warehouse;;;1
+RÉSULTAT FINANCIER;FINANCIAL RESULT;;;1
+sac, bidon, barre…;bag, drum, bar…;;;1
+Total des produits;Total income;;;1
+Toutes les actions;All actions;;;1
+Transfert de stock;Stock transfer;;;1
+Valider la reprise;Confirm the reversal;;;1
+Ventes par vendeur;Sales by salesperson;;;1
+Verrou mis à jour.;Lock updated.;;;1
+Virements de fonds;Fund transfers;;;1
+Échec de connexion;Sign-in failed;;;1
+… et se termine le;… and ends on;;;1
+↔ Nouveau virement;↔ New bank transfer;;;1
+＋ Créer la dépense;＋ Create the expense;;;1
+＋ Nouvelle dépense;＋ New expense;;;1
+Ajustement de stock;Stock adjustment;;;1
+Annulation de vente;Sale cancellation;;;1
+Catégorie inconnue.;Unknown category.;;;1
+CONTRÔLE EN ÉCHEC :;CHECK FAILED:;;;1
+Contrôles réussis :;Checks passed:;;;1
+Conversion de devis;Quote conversion;;;1
+Créances à examiner;Receivables to review;;;1
+Dernier prix payé :;Last price paid:;;;1
+Dettes fournisseurs;Supplier debts;;;1
+Dépense déjà saisie;Expense already entered;;;1
+Dépense enregistrée;Expense recorded;;;1
+Dépenses en espèces;Cash expenses;;;1
+Encaissé ce mois-ci;Collected this month;;;1
+Enregistrer l'achat;Save the purchase;;;1
+FLUX DE FINANCEMENT;FINANCING CASH FLOW;;;1
+Fournisseur modifié;Supplier changed;;;1
+Inventaire physique;Physical stock count;;;1
+Le mode de paiement;The payment method;;;1
+Le montant à étaler;The amount to spread;;;1
+Livraison en retard;Delivery overdue;;;1
+Livraison prévue le;Planned delivery on;;;1
+Modifier le produit;Edit the product;;;1
+Modèle introuvable.;Template not found.;;;1
+Mot de passe actuel;Current password;;;1
+Mot de passe changé;Password changed;;;1
+Mouvement de caisse;Cash movement;;;1
+Nom de l'entreprise;Company name;;;1
+Nouveau fournisseur;New supplier;;;1
+Opérations diverses;Miscellaneous operations;;;1
+Paiement enregistré;Payment recorded;;;1
+Quantité comptée de;Counted quantity of;;;1
+Remboursé au client;Refunded to the customer;;;1
+Remise en pour cent;Discount in percent;;;1
+Réactiver ce compte;Re-enable this account;;;1
+Réglages comptables;Accounting settings;;;1
+Serveur injoignable;Server unreachable;;;1
+Transférer du stock;Transfer stock;;;1
+Utilisateur modifié;User changed;;;1
+Variation de stocks;Change in stocks;;;1
+Écritures manuelles;Manual entries;;;1
+— Saisie manuelle —;— Manual entry —;;;1
+＋ Ajouter un compte;＋ Add an account;;;1
+＋ Ajouter une ligne;＋ Add a line;;;1
+＋ Nouvelle écriture;＋ New entry;;;1
+🧾 Factures impayées;🧾 Unpaid invoices;;;1
+Activation de compte;Account activation;;;1
+Aucune ligne valide.;No valid line.;;;1
+Charges de personnel;Personnel expenses;;;1
+Coût moyen d'achat :;Average purchase cost:;;;1
+Date de l'inventaire;Stock count date;;;1
+Date de verrouillage;Lock date;;;1
+Dépense enregistrée.;Expense recorded.;;;1
+Dépenses récurrentes;Recurring expenses;;;1
+Désactiver ce compte;Disable this account;;;1
+Encaissé aujourd'hui;Collected today;;;1
+Enregistrer la vente;Save the sale;;;1
+Fournisseur supprimé;Supplier deleted;;;1
+La valeur résiduelle;The residual value;;;1
+Le solde d'ouverture;The opening balance;;;1
+Les espèces comptées;The cash counted;;;1
+Livraisons en retard;Overdue deliveries;;;1
+Logo de l'entreprise;Company logo;;;1
+Mot de passe changé.;Password changed.;;;1
+Mouvements de caisse;Cash movements;;;1
+Nouveau mot de passe;New password;;;1
+Paiement enregistré.;Payment recorded.;;;1
+Pièce jointe ajoutée;Attachment added;;;1
+Pièce jointe retirée;Attachment removed;;;1
+Plan d'amortissement;Depreciation schedule;;;1
+Pointage automatique;Automatic matching;;;1
+Produits accessoires;Ancillary income;;;1
+Produits à commander;Products to reorder;;;1
+Provision constituée;Provision set up;;;1
+Rapprocher le compte;Reconcile the account;;;1
+Refusé par le client;Declined by the customer;;;1
+Reprise de provision;Provision reversal;;;1
+Reprise enregistrée.;Reversal recorded.;;;1
+Règlement de l'avoir;Settlement of the credit note;;;1
+Résultat net : perte;Net result: loss;;;1
+taux de l'entreprise;company rate;;;1
+valeur des manques :;value of shortfalls:;;;1
+Variations de stocks;Changes in stocks;;;1
+Vérifier l'intégrité;Check integrity;;;1
+Échéance de paiement;Payment due date;;;1
+✔ Clôturer la caisse;✔ Close the cash register;;;1
+⬆ Importer un relevé;⬆ Import a statement;;;1
+＋ Nouvelle provision;＋ New provision;;;1
+Au;To;;;2
+Du;From;;;2
+× ;× ;;;2
+de :;from:;;;2
+(owner);(owner);;;2
+(sales);(sales);;;2
+(ÉCHEC);(FAILED);;;2
+(ajouté);(added);;;2
+(cashier);(cashier);;;2
+(bénéfice);(profit);;;2
+(désactivé);(disabled);;;2
+(accountant);(accountant);;;2
+Plus de 60 j;Over 60 d;;;2
+Plus de 90 j;Over 90 d;;;2
+Ventes (TTC);Sales (incl. tax);;;2
+Montant (GNF);Amount (GNF);;;2
+plus de 999 %;over 999 %;;;2
+(sans libellé);(no description);;;2
+durée (mois) :;life (months):;;;2
+Envoi refusé (;Upload refused (;;;2
+(théorique : #);(expected: #);;;2
+Accepté (vendu);Accepted (sold);;;2
+Caisse (espèces);Cash register (cash);;;2
+Plus de 90 jours;Over 90 days;;;2
+Remise % (max #);Discount % (max #);;;2
+Acompte versé (GNF);Deposit paid (GNF);;;2
+À payer (ou crédit);To pay (or credit);;;2
+À payer sous 7 jours;To pay within 7 days;;;2
+Accès bancaire refusé;Bank access refused;;;2
+Ajouter une catégorie;Add a category;;;2
+Annulation d'écriture;Journal entry cancellation;;;2
+Annulation de dépense;Expense cancellation;;;2
+Annulation de reprise;Reversal cancellation;;;2
+Aucun produit compté.;No product counted.;;;2
+Bon de livraison créé;Delivery note created;;;2
+Ce devis existe déjà.;This quote already exists.;;;2
+Choisissez un compte.;Choose an account.;;;2
+Compte comptable créé;Ledger account created;;;2
+Connexion nécessaire.;A connection is needed.;;;2
+Dépréciation de stock;Stock impairment;;;2
+Encaissé dans le mois;Collected in the month;;;2
+Fiabilité de paiement;Payment reliability;;;2
+FLUX D'INVESTISSEMENT;INVESTING CASH FLOW;;;2
+Intérêts des emprunts;Interest on borrowings;;;2
+Inventaire enregistré;Stock count recorded;;;2
+La date de la reprise;The reversal date;;;2
+Le coût d'acquisition;The acquisition cost;;;2
+Le montant de l'avoir;The credit note amount;;;2
+Le nom du fournisseur;The supplier name;;;2
+Litige ou contentieux;Dispute or litigation;;;2
+Livraison enregistrée;Delivery recorded;;;2
+Logiciels et licences;Software and licences;;;2
+Matières consommables;Consumable materials;;;2
+Matériel de transport;Transport equipment;;;2
+Matériel et outillage;Equipment and tools;;;2
+Modification de dépôt;Warehouse change;;;2
+Mouvement enregistré.;Movement recorded.;;;2
+Prix d'achat unitaire;Unit purchase price;;;2
+Provision constituée.;Provision set up.;;;2
+Prélèvement du patron;Owner's withdrawal;;;2
+Rechercher un client…;Search for a customer…;;;2
+Règlement enregistré.;Payment recorded.;;;2
+Règlement fournisseur;Supplier payment;;;2
+Référence du virement;Transfer reference;;;2
+Réglages enregistrés.;Settings saved.;;;2
+Réouverture de caisse;Cash register reopening;;;2
+Stock de marchandises;Merchandise stock;;;2
+Suppression de client;Customer deletion;;;2
+Tous les utilisateurs;All users;;;2
+Transports sur achats;Transport on purchases;;;2
+Transports sur ventes;Transport on sales;;;2
+Téléphone et internet;Phone and internet;;;2
+Étalement enregistré.;Spreading saved.;;;2
+↔ Mouvement de caisse;↔ Cash movement;;;2
+⇄ Transférer du stock;⇄ Transfer stock;;;2
+⚠ Contrôle en échec :;⚠ Check failed:;;;2
+✔ Contrôles réussis :;✔ Checks passed:;;;2
+AC · Achats et charges;AC · Purchases and expenses;;;2
+Achats de marchandises;Purchases of goods;;;2
+Ajout de compte refusé;Adding an account was refused;;;2
+Amortissements cumulés;Accumulated depreciation;;;2
+Annulation de paiement;Payment cancellation;;;2
+Annulation de virement;Bank transfer cancellation;;;2
+Autre mode de paiement;Other payment method;;;2
+Autre risque ou charge;Other risk or charge;;;2
+Avoir fournisseur créé;Supplier credit note created;;;2
+Banque et mobile money;Bank and mobile money;;;2
+Catégories de dépenses;Expense categories;;;2
+Ce client existe déjà.;This customer already exists.;;;2
+Ce compte existe déjà.;This account already exists.;;;2
+Ce modèle existe déjà.;This template already exists.;;;2
+Cet achat existe déjà.;This purchase already exists.;;;2
+Cet avoir existe déjà.;This credit note already exists.;;;2
+Charges HAO constatées;Recorded non-operating expenses;;;2
+Commercial responsable;Salesperson in charge;;;2
+dont charges variables;of which variable charges;;;2
+Dotation de la période;Charge for the period;;;2
+Espèces comptées (GNF);Cash counted (GNF);;;2
+Explication de l'écart;Explanation of the difference;;;2
+Frais de développement;Development costs;;;2
+Immobilisation annulée;Fixed asset cancelled;;;2
+Immobilisation refusée;Fixed asset refused;;;2
+Impôts sur le résultat;Income taxes;;;2
+Informations générales;General information;;;2
+Le mode d'encaissement;The collection method;;;2
+Le nom de la catégorie;The category name;;;2
+Modification de client;Customer change;;;2
+Pièce jointe consultée;Attachment viewed;;;2
+Produits HAO constatés;Recorded non-operating income;;;2
+Prélèvements du patron;Owner's withdrawals;;;2
+Publicité et marketing;Advertising and marketing;;;2
+Rechercher un produit…;Search for a product…;;;2
+Reprises de provisions;Provision reversals;;;2
+Régularisation annulée;Adjustment cancelled;;;2
+Régularisation refusée;Adjustment refused;;;2
+Réouverture d'exercice;Fiscal year reopening;;;2
+Résultat de la période;Result of the period;;;2
+Sauvegarde téléchargée;Backup downloaded;;;2
+Suppression de produit;Product deletion;;;2
+Taux de TVA sur achats;VAT rate on purchases;;;2
+Transport et livraison;Transport and delivery;;;2
+valeur des excédents :;value of surpluses:;;;2
+Ventes de marchandises;Sales of goods;;;2
+Vos ventes uniquement.;Your sales only.;;;2
+À qui avez-vous payé ?;Who did you pay?;;;2
+Échéance de paiement *;Payment due date *;;;2
+= solde bancaire ajusté;= adjusted bank balance;;;2
+= solde du livre ajusté;= adjusted book balance;;;2
+Achats payés en espèces;Purchases paid in cash;;;2
+Affectation du résultat;Allocation of the result;;;2
+Annulation de mouvement;Movement cancellation;;;2
+Annulation de provision;Provision cancellation;;;2
+Annulation de règlement;Settlement cancellation;;;2
+Annulation de transfert;Transfer cancellation;;;2
+Automatique · Automatic;Automatic (device language);;;2
+Autres charges externes;Other external charges;;;2
+Bon de livraison annulé;Delivery note cancelled;;;2
+Bon de livraison refusé;Delivery note refused;;;2
+Ce produit existe déjà.;This product already exists.;;;2
+Changer le mot de passe;Change password;;;2
+Charges sociales (CNSS);Social charges (CNSS);;;2
+CL · Clôture d'exercice;CL · Fiscal year closing;;;2
+Clôturer définitivement;Close permanently;;;2
+Conflit de modification;Edit conflict;;;2
+Constatée sur le relevé;Noted on the statement;;;2
+Créance client douteuse;Doubtful customer receivable;;;2
+Date de mise en service;In-service date;;;2
+Droits d'enregistrement;Registration duties;;;2
+En attente de connexion;Waiting for a connection;;;2
+Immobilisation annulée.;Fixed asset cancelled.;;;2
+Import de relevé refusé;Statement import refused;;;2
+Impôts et taxes directs;Direct taxes and duties;;;2
+Inventaire enregistré ✔;Stock count recorded ✔;;;2
+Ligne de relevé pointée;Statement line matched;;;2
+Ligne de relevé retirée;Statement line removed;;;2
+Modification de produit;Product change;;;2
+Modifier le fournisseur;Edit the supplier;;;2
+Modèle récurrent refusé;Recurring template refused;;;2
+Mot de passe provisoire;Temporary password;;;2
+Motif de l'annulation :;Reason for cancelling:;;;2
+Nouveau compte bancaire;New bank account;;;2
+Nouvelle immobilisation;New fixed asset;;;2
+Par catégorie et budget;By category and budget;;;2
+Pointer automatiquement;Match automatically;;;2
+Provisions pour litiges;Provisions for disputes;;;2
+RÉSULTAT D'EXPLOITATION;OPERATING RESULT;;;2
+Résultat net : bénéfice;Net result: profit;;;2
+Stock initial (reprise);Opening stock (takeover);;;2
+Synchroniser maintenant;Sync now;;;2
+Sécurité sociale (CNSS);Social security (CNSS);;;2
+TVA facturée sur ventes;VAT charged on sales;;;2
+VARIATION DE TRÉSORERIE;NET CHANGE IN CASH;;;2
+Auditeur (lecture seule);Auditor (read-only);;;2
+Avoir fournisseur annulé;Supplier credit note cancelled;;;2
+Avoir fournisseur refusé;Supplier credit note refused;;;2
+Banque ou mobile money ?;Bank or mobile money?;;;2
+Ce paiement existe déjà.;This payment already exists.;;;2
+Ce virement existe déjà.;This bank transfer already exists.;;;2
+Cession d'immobilisation;Fixed asset disposal;;;2
+Cette vente existe déjà.;This sale already exists.;;;2
+Clôture mise en attente.;Closing queued.;;;2
+Connexion : code demandé;Sign-in: code requested;;;2
+Créez d'abord un client.;Create a customer first.;;;2
+Céder ou mettre au rebut;Sell or scrap;;;2
+Dotations aux provisions;Provision charges;;;2
+Dépense depuis le relevé;Expense from the statement;;;2
+Dépense mise en attente.;Expense queued.;;;2
+Enregistrer l'inventaire;Save the stock count;;;2
+Enregistrer les réglages;Save the settings;;;2
+Entretien et réparations;Maintenance and repairs;;;2
+Ex. Frais de gardiennage;E.g. Security guard fees;;;2
+Exercice : année civile.;Fiscal year: calendar year.;;;2
+Import du classeur Excel;Excel workbook import;;;2
+La fin précède le début.;The end is before the start.;;;2
+Le mode de remboursement;The refund method;;;2
+Les marges sont estimées;Margins are estimated;;;2
+Ligne de vente inconnue.;Unknown sale line.;;;2
+Modèle récurrent modifié;Recurring template changed;;;2
+Montant de l'avoir (GNF);Credit note amount (GNF);;;2
+Motif de l'annulation de;Reason for cancelling;;;2
+Nouveau bon de livraison;New delivery note;;;2
+Nouveau modèle récurrent;New recurring template;;;2
+OD · Opérations diverses;OD · Miscellaneous operations;;;2
+Reçu consulté ou imprimé;Receipt viewed or printed;;;2
+Type de rapport inconnu.;Unknown report type.;;;2
+Ventes de produits finis;Sales of finished products;;;2
+Verrou comptable modifié;Accounting lock changed;;;2
+À lire avant de clôturer;To read before closing;;;2
+Écriture manuelle passée;Manual entry posted;;;2
+Annulation de bon refusée;Delivery note cancellation refused;;;2
+Apport du patron (entrée);Owner's contribution (in);;;2
+Aucune ligne exploitable.;No usable line.;;;2
+Aucune écriture manuelle.;No manual entry.;;;2
+Autres emprunts et dettes;Other borrowings and debts;;;2
+Ce mouvement existe déjà.;This movement already exists.;;;2
+Ce règlement existe déjà.;This payment already exists.;;;2
+Ce transfert existe déjà.;This transfer already exists.;;;2
+Charge constatée d'avance;Prepaid expense;;;2
+Choisissez une connexion.;Choose a session.;;;2
+Clôture de caisse refusée;Cash register closing refused;;;2
+Compte de charge, ex. 638;Expense account, e.g. 638;;;2
+Conflit (ligne de relevé);Conflict (statement line);;;2
+Coût des biens en service;Cost of assets in service;;;2
+Création de dépôt refusée;Warehouse creation refused;;;2
+Date du solde d'ouverture;Opening balance date;;;2
+Devis consulté ou imprimé;Quote viewed or printed;;;2
+Devis en cours (valables);Open quotes (valid);;;2
+Dépôt d'espèces en banque;Cash deposit at the bank;;;2
+Désactivation 2FA refusée;2FA deactivation refused;;;2
+Le motif est obligatoire.;The reason is required.;;;2
+Merci de votre confiance.;Thank you for your trust.;;;2
+Mode de paiement inconnu.;Unknown payment method.;;;2
+N° de facture fournisseur;Supplier invoice no.;;;2
+Pied de page des factures;Invoice footer;;;2
+Produit constaté d'avance;Deferred income;;;2
+Rapprochement équilibré ✔;Reconciliation balanced ✔;;;2
+Report à nouveau débiteur;Retained earnings (debit);;;2
+Règlement mis en attente.;Payment queued.;;;2
+Salaires et rémunérations;Salaries and remuneration;;;2
+Tout livrer (crée un bon);Deliver everything (creates a note);;;2
+Transfert de stock annulé;Stock transfer cancelled;;;2
+Type d'opération inconnu.;Unknown operation type.;;;2
+Validité : un an au plus.;Validity: one year at most.;;;2
+Écriture manuelle annulée;Manual entry cancelled;;;2
+⚡ Pointer automatiquement;⚡ Match automatically;;;2
+＋ Nouvelle immobilisation;＋ New fixed asset;;;2
+Alimentaire, Construction…;Food, Construction…;;;2
+Amortissements du matériel;Depreciation of equipment;;;2
+Annulation d'avoir refusée;Credit note cancellation refused;;;2
+Aucun logo pour le moment.;No logo yet.;;;2
+Catégorie de dépense créée;Expense category created;;;2
+Cession ou mise au rebut ?;Sale or scrapping?;;;2
+Cette clôture existe déjà.;This closing already exists.;;;2
+Cette dépense existe déjà.;This expense already exists.;;;2
+Clôture de caisse rouverte;Cash register closing reopened;;;2
+Compte activé ou désactivé;Account enabled or disabled;;;2
+Création de client refusée;Customer creation refused;;;2
+Export complet des données;Full data export;;;2
+Exporter le journal en CSV;Export the log as CSV;;;2
+Exporter tout en CSV (ZIP);Export everything as CSV (ZIP);;;2
+Fixer le solde d'ouverture;Set the opening balance;;;2
+Frais et pertes financiers;Financial costs and losses;;;2
+Immobilisation enregistrée;Fixed asset recorded;;;2
+Informations enregistrées.;Information saved.;;;2
+Le nom de celui qui reçoit;The name of the person receiving;;;2
+Limite de crédit invalide.;Invalid credit limit.;;;2
+Loyer et charges locatives;Rent and rental charges;;;2
+Mouvement de caisse annulé;Cash movement cancelled;;;2
+Mouvement de caisse refusé;Cash movement refused;;;2
+Nature : fixe ou variable.;Nature: fixed or variable.;;;2
+N° de virement, de chèque…;Transfer or cheque number…;;;2
+Puis tapez le code affiché;Then type the displayed code;;;2
+Rechercher (n° ou client)…;Search (no. or customer)…;;;2
+Report à nouveau créditeur;Retained earnings (credit);;;2
+Résultat net de la période;Net result of the period;;;2
+Solde d'ouverture bancaire;Bank opening balance;;;2
+Subventions d'exploitation;Operating grants;;;2
+Suppression de fournisseur;Supplier deletion;;;2
+TVA collectée (sur ventes);VAT collected (on sales);;;2
+TVA récupérable sur achats;Recoverable VAT on purchases;;;2
+Type de mouvement inconnu.;Unknown movement type.;;;2
+Ventes des 6 derniers mois;Sales of the last 6 months;;;2
+• Exercice : année civile.;• Fiscal year: calendar year.;;;2
+amortissements antérieurs :;prior depreciation:;;;2
+Annulation d'immobilisation;Fixed asset cancellation;;;2
+Associés : comptes courants;Partners: current accounts;;;2
+Aucun mouvement en espèces.;No cash movement.;;;2
+Banque (virements, chèques);Bank (transfers, cheques);;;2
+BQ · Banque et mobile money;BQ · Bank and mobile money;;;2
+Ce fournisseur existe déjà.;This supplier already exists.;;;2
+Cet ajustement existe déjà.;This adjustment already exists.;;;2
+Cette écriture existe déjà.;This journal entry already exists.;;;2
+Charges constatées d'avance;Prepaid expenses;;;2
+Compte de charge (classe 6);Expense account (class 6);;;2
+Conflit (clôture de caisse);Conflict (cash register closing);;;2
+Déduit de ce qu'on lui doit;Deducted from what we owe them;;;2
+Dépôt inconnu ou désactivé.;Warehouse unknown or disabled.;;;2
+Désignation (article libre);Description (free-text item);;;2
+Espèces attendues en caisse;Cash expected in the register;;;2
+Frais de télécommunications;Telecommunication costs;;;2
+Immobilisation enregistrée.;Fixed asset recorded.;;;2
+Immobilisations corporelles;Tangible fixed assets;;;2
+Immobilisations financières;Financial fixed assets;;;2
+Inventaire de démonstration;Demonstration stock count;;;2
+L'intitulé est obligatoire.;The title is required.;;;2
+La date de comptabilisation;The booking date;;;2
+Le libellé est obligatoire.;The description is required.;;;2
+Ligne de relevé à justifier;Statement line to justify;;;2
+Logo de l'entreprise retiré;Company logo removed;;;2
+Lots et dates de péremption;Batches and expiry dates;;;2
+Modification de fournisseur;Supplier change;;;2
+Nouvelle dépense récurrente;New recurring expense;;;2
+N° de reçu, de transaction…;Receipt or transaction number…;;;2
+Prix d'achat unitaire (GNF);Unit purchase price (GNF);;;2
+Produits constatés d'avance;Deferred income;;;2
+Provisions en cours (solde);Provisions in progress (balance);;;2
+Provisions et dépréciations;Provisions and impairment;;;2
+Revenus et gains financiers;Financial income and gains;;;2
+Un dépôt porte déjà ce nom.;A warehouse already has this name.;;;2
+Électricité, eau, carburant;Electricity, water, fuel;;;2
+Achat introuvable ou annulé.;Purchase not found or cancelled.;;;2
+Achats de matières premières;Purchases of raw materials;;;2
+Amortissements des bâtiments;Depreciation of buildings;;;2
+Annulation de régularisation;Adjustment cancellation;;;2
+Ce code produit existe déjà.;This product code already exists.;;;2
+Cet identifiant existe déjà.;This identifier already exists.;;;2
+Cette provision existe déjà.;This provision already exists.;;;2
+Chiffre d'affaires hors taxe;Revenue excluding tax;;;2
+Compte de produit (classe 7);Income account (class 7);;;2
+Conflit (transfert de stock);Conflict (stock transfer);;;2
+Créances (reste à encaisser);Receivables (still to collect);;;2
+Dotations aux amortissements;Depreciation charges;;;2
+Entrée en mode démonstration;Entered demonstration mode;;;2
+entrée en mode démonstration;entered demonstration mode;;;2
+EXCÉDENT BRUT D'EXPLOITATION;GROSS OPERATING SURPLUS;;;2
+Fournitures et petits achats;Supplies and small purchases;;;2
+Garder la version du serveur;Keep the server version;;;2
+Identifiant de bon invalide.;Invalid note identifier.;;;2
+Informations de l'entreprise;Company information;;;2
+Logo de l'entreprise modifié;Company logo changed;;;2
+Mode d'encaissement inconnu.;Unknown collection method.;;;2
+N° de facture du fournisseur;Supplier invoice number;;;2
+Opération choisie deux fois.;Transaction chosen twice.;;;2
+Paiements clients en espèces;Customer payments in cash;;;2
+Rechercher dans les détails…;Search in the details…;;;2
+Remboursé par le fournisseur;Refunded by the supplier;;;2
+Reprise de provision annulée;Provision reversal cancelled;;;2
+Retour client remis en stock;Customer return put back in stock;;;2
+Règlement fournisseur annulé;Supplier payment cancelled;;;2
+Réglages comptables modifiés;Accounting settings changed;;;2
+Seuil de rentabilité atteint;Break-even reached;;;2
+Seuil de rentabilité du mois;Break-even of the month;;;2
+Solde du livre (application);Book balance (application);;;2
+Solde du relevé à cette date;Statement balance on this date;;;2
+TVA récupérable (sur achats);Recoverable VAT (on purchases);;;2
+Ventes des six derniers mois;Sales of the last six months;;;2
+Ventes encaissées en espèces;Sales collected in cash;;;2
+États financiers de synthèse;Summary financial statements;;;2
+Ajouter un membre de l'équipe;Add a team member;;;2
+Bon de livraison introuvable.;Delivery note not found.;;;2
+Casse, perte, vol, péremption;Breakage, loss, theft, expiry;;;2
+Catégorie de dépense modifiée;Expense category changed;;;2
+Ce rapprochement existe déjà.;This reconciliation already exists.;;;2
+Choisissez votre mot de passe;Choose your password;;;2
+Conflit (mouvement de caisse);Conflict (cash movement);;;2
+Créances en retard à examiner;Overdue receivables to review;;;2
+Créances et emplois assimilés;Receivables and similar assets;;;2
+Création de catégorie refusée;Category creation refused;;;2
+Créez d'abord un fournisseur.;Create a supplier first.;;;2
+Devis clos (refusé ou annulé);Quote closed (declined or cancelled);;;2
+Dépenses récurrentes générées;Recurring expenses generated;;;2
+Ex. inventaire de fin de mois;E.g. end-of-month stock count;;;2
+Facture consultée ou imprimée;Invoice viewed or printed;;;2
+Identifiant d'achat invalide.;Invalid purchase identifier.;;;2
+Identifiant d'avoir invalide.;Invalid credit note identifier.;;;2
+Intérêts de prêts et créances;Interest on loans and receivables;;;2
+La fin de la période couverte;The end of the covered period;;;2
+Livraison prévue (facultatif);Planned delivery (optional);;;2
+Montant en attente de réponse;Amount awaiting an answer;;;2
+Nature de provision inconnue.;Unknown provision type.;;;2
+Nom de la personne qui reçoit;Name of the person receiving;;;2
+Nom invalide ou déjà utilisé.;Invalid or already used name.;;;2
+Nouvelle catégorie de dépense;New expense category;;;2
+N° de transaction, de chèque…;Transaction or cheque number…;;;2
+Obligatoire s'il y a un écart;Required if there is a difference;;;2
+Pointer cette ligne du relevé;Match this statement line;;;2
+Première échéance à partir du;First due date from;;;2
+Réinitialiser le mot de passe;Reset the password;;;2
+Saisi sur la mauvaise facture;Entered on the wrong invoice;;;2
+Suppression de client refusée;Customer deletion refused;;;2
+Vente introuvable ou annulée.;Sale not found or cancelled.;;;2
+Verrouiller jusqu'au (inclus);Lock until (inclusive);;;2
+Virement entre comptes annulé;Transfer between accounts cancelled;;;2
+État, impôt sur les bénéfices;State, corporate income tax;;;2
+Ancien mot de passe incorrect.;Current password is incorrect.;;;2
+Annulation d'avoir fournisseur;Supplier credit note cancellation;;;2
+Annulation de bon de livraison;Delivery note cancellation;;;2
+Cet exercice est déjà clôturé.;This fiscal year is already closed.;;;2
+Cette dépense est déjà étalée.;This expense is already spread.;;;2
+Choisissez une immobilisation.;Choose a fixed asset.;;;2
+Cochez au moins une opération.;Tick at least one transaction.;;;2
+Dernière échéance (facultatif);Last due date (optional);;;2
+Durée d'amortissement (années);Depreciation period (years);;;2
+Débiteurs et créditeurs divers;Sundry debtors and creditors;;;2
+Dépôts et cautionnements reçus;Deposits and guarantees received;;;2
+Ex. client payé, litige gagné…;E.g. customer paid, dispute won…;;;2
+Fournisseurs, dettes en compte;Suppliers, accounts payable;;;2
+Identifiant de devis invalide.;Invalid quote identifier.;;;2
+Identifiant de dépôt invalide.;Invalid warehouse identifier.;;;2
+Identifiant de vente invalide.;Invalid sale identifier.;;;2
+L'installation est déjà faite.;The installation is already done.;;;2
+Locations et charges locatives;Rentals and rental charges;;;2
+Matériel et mobilier de bureau;Office equipment and furniture;;;2
+Modification de client refusée;Customer change refused;;;2
+Motif du refus par le client :;Reason the customer declined:;;;2
+Nouvel achat (entrée de stock);New purchase (stock in);;;2
+Numéro de téléphone trop long.;Phone number too long.;;;2
+Participation des travailleurs;Employee profit sharing;;;2
+Personnel : rémunérations dues;Staff: salaries due;;;2
+Prélèvement du patron (sortie);Owner's withdrawal (out);;;2
+Rien à générer pour le moment.;Nothing to generate for now.;;;2
+Tableau des flux de trésorerie;Cash flow statement;;;2
+Ventes de produits et services;Sales of products and services;;;2
+⚠ Le prix d'achat a augmenté :;⚠ The purchase price has increased:;;;2
+Annulation de provision refusée;Provision cancellation refused;;;2
+Caisse clôturée : aucun écart ✔;Cash register closed: no difference ✔;;;2
+Cet exercice n'est pas clôturé.;This fiscal year is not closed.;;;2
+Code de vérification incorrect.;Verification code is incorrect.;;;2
+Commencez par demander une clé.;Start by requesting a key.;;;2
+Conditions, délai de livraison…;Terms, delivery time…;;;2
+Conflit de modification (achat);Edit conflict (purchase);;;2
+Conflit de modification (devis);Edit conflict (quote);;;2
+Conflit de modification (dépôt);Edit conflict (warehouse);;;2
+Conflit de modification (vente);Edit conflict (sale);;;2
+Crédit accordé malgré la limite;Credit granted despite the limit;;;2
+Créer le compte du propriétaire;Create the owner account;;;2
+Dernier rapprochement équilibré;Last balanced reconciliation;;;2
+Devis introuvable ou déjà clos.;Quote not found or already closed.;;;2
+Double authentification activée;Two-factor authentication enabled;;;2
+Dépense introuvable ou annulée.;Expense not found or cancelled.;;;2
+Frais de formation du personnel;Staff training costs;;;2
+Honoraires (comptable, conseil);Fees (accountant, consulting);;;2
+Identifiant de client invalide.;Invalid customer identifier.;;;2
+La période couverte commence le;The covered period starts on;;;2
+Le début de la période couverte;The start of the covered period;;;2
+Lever le verrou exige un motif.;Removing the lock requires a reason.;;;2
+Mot de passe ou code incorrect.;Incorrect password or code.;;;2
+N° de bordereau, nom du client…;Slip number, customer name…;;;2
+N° de la facture du fournisseur;Supplier invoice number;;;2
+Personnel : avances et acomptes;Staff: advances and deposits;;;2
+(tout le monde peut la voir ici);(everyone can see it here);;;2
+Aucune donnée sur cette période.;No data for this period.;;;2
+Bilan équilibré (actif = passif);Balance sheet balanced (assets = liabilities);;;2
+Ce bon de livraison existe déjà.;This delivery note already exists.;;;2
+Cession d'immobilisation refusée;Fixed asset disposal refused;;;2
+Commercial inconnu ou désactivé.;Salesperson unknown or disabled.;;;2
+Compte bancaire ou mobile ajouté;Bank or mobile account added;;;2
+Conflit de modification (client);Edit conflict (customer);;;2
+Date d'acquisition ou de reprise;Acquisition or takeover date;;;2
+Double authentification activée.;Two-factor authentication enabled.;;;2
+Identifiant d'écriture invalide.;Invalid journal entry identifier.;;;2
+Identifiant de clôture invalide.;Invalid closing identifier.;;;2
+Identifiant de dépense invalide.;Invalid expense identifier.;;;2
+Identifiant de produit invalide.;Invalid product identifier.;;;2
+Installation : propriétaire créé;Setup: owner created;;;2
+Le nom du dépôt est obligatoire.;The warehouse name is required.;;;2
+Lot introuvable pour ce produit.;Batch not found for this product.;;;2
+Modification de modèle récurrent;Recurring template change;;;2
+Motif de l'annulation de l'achat;Reason for cancelling purchase;;;2
+Ouvrir le reçu pour l'imprimer ?;Open the receipt to print it?;;;2
+Refusé par le client ou annulé ?;Declined by the customer or cancelled?;;;2
+Régularisation d'étalement créée;Spreading adjustment created;;;2
+Solde de clôture du relevé (GNF);Closing balance of the statement (GNF);;;2
+Terrains agricoles et forestiers;Agricultural and forest land;;;2
+Une catégorie porte déjà ce nom.;A category already has this name.;;;2
+Voir l'application en tant que :;View the application as:;;;2
+Achat introuvable ou déjà annulé.;Purchase not found or already cancelled.;;;2
+Articles libres (sans coût connu);Free-text items (no known cost);;;2
+Aucune activité avant cette date.;No activity before this date.;;;2
+Avoir introuvable ou déjà annulé.;Credit note not found or already cancelled.;;;2
+Cette immobilisation existe déjà.;This fixed asset already exists.;;;2
+Cette page demande une connexion.;This page needs a connection.;;;2
+Cette régularisation existe déjà.;This adjustment already exists.;;;2
+Conflit de modification (dépense);Edit conflict (expense);;;2
+Conflit de modification (produit);Edit conflict (product);;;2
+Dépréciations des comptes clients;Impairment of customer accounts;;;2
+Détail depuis la dernière clôture;Details since the last closing;;;2
+Ex. réassort du magasin du marché;E.g. restocking the market shop;;;2
+Fiabilité de paiement des clients;Customers' payment reliability;;;2
+FLUX DE TRÉSORERIE D'EXPLOITATION;OPERATING CASH FLOW;;;2
+Identifiant d'opération manquant.;Missing operation identifier.;;;2
+Identifiant de paiement invalide.;Invalid payment identifier.;;;2
+Identifiant de virement invalide.;Invalid bank transfer identifier.;;;2
+Immobilisations et amortissements;Fixed assets and depreciation;;;2
+Le journal demande une connexion.;The audit log needs a connection.;;;2
+Le nom du client est obligatoire.;The customer name is required.;;;2
+Modification de catégorie refusée;Category change refused;;;2
+Modèle de dépense récurrente créé;Recurring expense template created;;;2
+Motif de l'annulation de la vente;Reason for cancelling sale;;;2
+On inventorie un dépôt à la fois.;One warehouse is counted at a time.;;;2
+Première utilisation de ce compte;First use of this account;;;2
+Production stockée ou immobilisée;Stored or capitalised production;;;2
+Provision introuvable ou annulée.;Provision not found or cancelled.;;;2
+Reprises et transferts de charges;Reversals and expense transfers;;;2
+Réduire le verrou exige un motif.;Reducing the lock requires a reason.;;;2
+Régler les fournisseurs en retard;Pay the overdue suppliers;;;2
+RÉSULTAT DES ACTIVITÉS ORDINAIRES;RESULT FROM ORDINARY ACTIVITIES;;;2
+Trésorerie au début de la période;Cash at the start of the period;;;2
+Trésorerie à la fin de la période;Cash at the end of the period;;;2
+À payer au fournisseur (à crédit);To pay the supplier (on credit);;;2
+Étaler une dépense ou une facture;Spread an expense or an invoice;;;2
+Activer la double authentification;Enable two-factor authentication;;;2
+Affecter aux réserves (compte 106);Allocate to reserves (account 106);;;2
+Conflit de modification (paiement);Edit conflict (payment);;;2
+Conflit de modification (virement);Edit conflict (bank transfer);;;2
+Double authentification désactivée;Two-factor authentication disabled;;;2
+Dépôt d'espèces en banque (sortie);Cash deposit at the bank (out);;;2
+Export possible : vendeur ou mois.;Export available: salesperson or month.;;;2
+Format accepté : JPEG, PNG ou PDF.;Accepted format: JPEG, PNG or PDF.;;;2
+Génération de dépenses récurrentes;Recurring expenses generation;;;2
+Identifiant d'ajustement invalide.;Invalid adjustment identifier.;;;2
+Identifiant d'inventaire invalide.;Invalid stock count identifier.;;;2
+Identifiant de mouvement invalide.;Invalid movement identifier.;;;2
+Identifiant de provision invalide.;Invalid provision identifier.;;;2
+Identifiant de règlement invalide.;Invalid payment identifier.;;;2
+Identifiant de transfert invalide.;Invalid transfer identifier.;;;2
+Ligne introuvable ou déjà pointée.;Line not found or already matched.;;;2
+Ligne introuvable ou déjà traitée.;Line not found or already processed.;;;2
+Matériel informatique et de bureau;IT and office equipment;;;2
+Opérations refusées par le serveur;Operations refused by the server;;;2
+Prix de vente (GNF), taxe comprise;Selling price (GNF), tax included;;;2
+Remboursement à un client (sortie);Refund to a customer (out);;;2
+Règlements fournisseurs en espèces;Supplier payments in cash;;;2
+RÉSULTAT HORS ACTIVITÉS ORDINAIRES;NON-OPERATING RESULT;;;2
+Solde d'ouverture mtn (à ventiler);Opening balance mtn (to be allocated);;;2
+Type d'achat : comptant ou crédit.;Purchase type: cash or credit.;;;2
+Vente introuvable ou déjà annulée.;Sale not found or already cancelled.;;;2
+Annulation d'immobilisation refusée;Fixed asset cancellation refused;;;2
+Cet inventaire est déjà enregistré.;This stock count is already recorded.;;;2
+Cette action demande une connexion.;This action needs a connection.;;;2
+Clients créditeurs (avances reçues);Customers in credit (advances received);;;2
+Clôture impossible pour le moment :;Closing is not possible right now:;;;2
+Conflit de modification (catégorie);Edit conflict (category);;;2
+Conflit de modification (provision);Edit conflict (provision);;;2
+Contrepartie des soldes d'ouverture;Offset for opening balances;;;2
+Date de la dépense ou de la facture;Expense or invoice date;;;2
+Double authentification désactivée.;Two-factor authentication disabled.;;;2
+Fermer toutes mes autres connexions;Close all my other sessions;;;2
+Journal : qui a fait quoi, et quand;Audit log: who did what, and when;;;2
+La quantité ne peut pas être nulle.;The quantity cannot be zero.;;;2
+Nouvelle régularisation d'étalement;New spreading adjustment;;;2
+Payé par le patron (compte courant);Paid by the owner (current account);;;2
+Résultat des exercices non clôturés;Result of unclosed fiscal years;;;2
+Sauvegarde et export de vos données;Backup and export of your data;;;2
+Solde d'ouverture bank (à ventiler);Opening balance bank (to be allocated);;;2
+Type de vente : comptant ou crédit.;Sale type: cash or credit.;;;2
+Télécharger une sauvegarde complète;Download a full backup;;;2
+Un achat comporte de 1 à 30 lignes.;A purchase has 1 to 30 lines.;;;2
+Variation de stocks de marchandises;Change in merchandise stock;;;2
+Échec de changement de mot de passe;Password change failed;;;2
+Études, recherches et documentation;Studies, research and documentation;;;2
+Achat annulé : le stock est corrigé.;Purchase cancelled: stock has been corrected.;;;2
+Annulation de régularisation refusée;Adjustment cancellation refused;;;2
+Bon de livraison consulté ou imprimé;Delivery note viewed or printed;;;2
+Catégorie d'immobilisation inconnue.;Unknown fixed asset category.;;;2
+Charges d'avance (actif, compte 476);Prepaid expenses (asset, account 476);;;2
+Choisissez un compte bancaire actif.;Choose an active bank account.;;;2
+Clôture introuvable ou déjà annulée.;Closing not found or already cancelled.;;;2
+Compte de démonstration introuvable.;Demonstration account not found.;;;2
+Conflit de modification (récurrente);Edit conflict (recurring);;;2
+Connexions ouvertes (toute l'équipe);Open sessions (whole team);;;2
+Dépense introuvable ou déjà annulée.;Expense not found or already cancelled.;;;2
+Explication de l'écart (obligatoire);Explanation of the difference (required);;;2
+Expliquez l'ajustement dans la note.;Explain the adjustment in the note.;;;2
+Export possible : produit ou client.;Export available: product or customer.;;;2
+Identifiant de fournisseur invalide.;Invalid supplier identifier.;;;2
+Laisser vide : montant de la dépense;Leave empty: expense amount;;;2
+Le motif du retrait est obligatoire.;The removal reason is required.;;;2
+Mode d'encaissement du remboursement;Collection method of the refund;;;2
+Modification de catégorie de dépense;Expense category change;;;2
+Paiement introuvable ou déjà annulé.;Payment not found or already cancelled.;;;2
+Prévision de trésorerie (4 semaines);Cash forecast (4 weeks);;;2
+Période trop longue (5 ans au plus).;Period too long (5 years at most).;;;2
+Rien à livrer : tout est déjà livré.;Nothing to deliver: everything is already delivered.;;;2
+Transferts de charges d'exploitation;Operating expense transfers;;;2
+Virement introuvable ou déjà annulé.;Bank transfer not found or already cancelled.;;;2
+Charge ou produit constaté d'avance ?;Prepaid expense or deferred income?;;;2
+Conflit de modification (fournisseur);Edit conflict (supplier);;;2
+Connexion refusée (compte verrouillé);Sign-in refused (account locked);;;2
+Double authentification (recommandée);Two-factor authentication (recommended);;;2
+Double authentification : clé générée;Two-factor authentication: key generated;;;2
+Double authentification réinitialisée;Two-factor authentication reset;;;2
+Entretien, réparations et maintenance;Upkeep, repairs and maintenance;;;2
+Immobilisation cédée ou mise au rebut;Fixed asset sold or scrapped;;;2
+Je l'achète maintenant (ou récemment);I am buying it now (or recently);;;2
+Les rapports demandent une connexion.;Reports need a connection.;;;2
+Marge brute (ventes − achats ± stock);Gross margin (sales − purchases ± stock);;;2
+Mouvement introuvable ou déjà annulé.;Movement not found or already cancelled.;;;2
+Produits d'avance (dette, compte 477);Deferred income (liability, account 477);;;2
+Reprises de provisions d'exploitation;Operating provision reversals;;;2
+Règlement introuvable ou déjà annulé.;Payment not found or already cancelled.;;;2
+Sauvegarder maintenant sur le serveur;Back up now on the server;;;2
+Solde d'ouverture orange (à ventiler);Opening balance orange (to be allocated);;;2
+Transfert introuvable ou déjà annulé.;Transfer not found or already cancelled.;;;2
+Écriture introuvable ou déjà annulée.;Entry not found or already cancelled.;;;2
+Aucun exercice clôturé pour le moment.;No closed fiscal year yet.;;;2
+Charges et produits constatés d'avance;Prepaid expenses and deferred income;;;2
+Copie impossible : recopiez à la main.;Cannot copy: copy it by hand.;;;2
+Identifiant d'immobilisation invalide.;Invalid fixed asset identifier.;;;2
+Identifiant de rapprochement invalide.;Invalid reconciliation identifier.;;;2
+Identifiant ou mot de passe incorrect.;Incorrect username or password.;;;2
+Informations de l'entreprise modifiées;Company information changed;;;2
+La comptabilité demande une connexion.;Accounting needs a connection.;;;2
+Le motif d'annulation est obligatoire.;The cancellation reason is required.;;;2
+MODE DÉMONSTRATION : données fictives.;DEMONSTRATION MODE: fictitious data.;;;2
+On ne clôture pas une journée à venir.;You cannot close a future day.;;;2
+Provision introuvable ou déjà annulée.;Provision not found or already cancelled.;;;2
+Rapprochement enregistré avec un écart;Reconciliation saved with a difference;;;2
+Reporter à nouveau (compte 121 ou 129);Carry forward (account 121 or 129);;;2
+Retour de marchandise, erreur de prix…;Goods returned, price error…;;;2
+Un import comporte de 1 à 2000 lignes.;An import has 1 to 2000 lines.;;;2
+à voir à la main (plusieurs candidats);to check by hand (several candidates);;;2
+⚠ Balance déséquilibrée : signalez-le.;⚠ Trial balance unbalanced: report it.;;;2
+Compte de charge ou de produit à étaler;Expense or income account to spread;;;2
+Dotations aux provisions d'exploitation;Operating provision charges;;;2
+Dépréciation des stocks de marchandises;Impairment of merchandise stock;;;2
+Ex. 10 sacs défectueux, erreur de prix…;E.g. 10 defective bags, price error…;;;2
+Ex. Virement UBA, Wave, Compte BICIGUI…;E.g. UBA transfer, Wave, BICIGUI account…;;;2
+La date ne peut pas être dans le futur.;The date cannot be in the future.;;;2
+La fin de la période précède son début.;The end of the period is before its start.;;;2
+Matières premières et fournitures liées;Raw materials and related supplies;;;2
+Produits des cessions d'immobilisations;Proceeds from fixed asset disposals;;;2
+Un acompte demande un mode de paiement.;A deposit needs a payment method.;;;2
+Une écriture comporte de 2 à 40 lignes.;A journal entry has 2 to 40 lines.;;;2
+Écriture manuelle (opérations diverses);Manual entry (miscellaneous operations);;;2
+＋ Bon de livraison (partiel ou complet);＋ Delivery note (partial or full);;;2
+Avertissements à lire avant de clôturer.;Warnings to read before closing.;;;2
+Conflit de modification (immobilisation);Edit conflict (fixed asset);;;2
+Conflit de modification (régularisation);Edit conflict (adjustment);;;2
+L'échéance ne peut pas précéder l'achat.;The due date cannot be before the purchase.;;;2
+Le motif de réouverture est obligatoire.;The reopening reason is required.;;;2
+Les deux dépôts doivent être différents.;The two warehouses must be different.;;;2
+Réinitialiser la double authentification;Reset two-factor authentication;;;2
+Saisissez au moins une quantité comptée.;Enter at least one counted quantity.;;;2
+Texte trop long (60 caractères maximum).;Text too long (60 characters maximum).;;;2
+Autres provisions pour risques et charges;Other provisions for risks and charges;;;2
+Cette application a besoin de JavaScript.;This application needs JavaScript.;;;2
+Cette ligne n'est ni pointée ni signalée.;This line is neither matched nor flagged.;;;2
+Choisissez de 1 à 50 opérations du livre.;Choose 1 to 50 book transactions.;;;2
+Choisissez la facture à crédit concernée.;Choose the credit invoice concerned.;;;2
+Impôts et taxes retenus à la source (ITS);Taxes withheld at source (ITS);;;2
+L'échéance ne peut pas précéder la vente.;The due date cannot be before the sale.;;;2
+Les deux comptes doivent être différents.;The two accounts must be different.;;;2
+Livraison complète (vente marquée livrée);Full delivery (sale marked as delivered);;;2
+On ne verrouille pas une période à venir.;You cannot lock a future period.;;;2
+Retrait en banque vers la caisse (entrée);Bank withdrawal into the cash register (in);;;2
+Un inventaire compte de 1 à 300 produits.;A stock count covers 1 to 300 products.;;;2
+⚠ Opération annulée ou supprimée depuis :;⚠ Transaction cancelled or deleted since:;;;2
+Cette pièce est déjà jointe à ce document.;This file is already attached to this document.;;;2
+Conflit de modification (bon de livraison);Edit conflict (delivery note);;;2
+Coût d'acquisition (hors taxe récupérable);Acquisition cost (excluding recoverable tax);;;2
+Dotations aux amortissements et provisions;Depreciation and provision charges;;;2
+Format accepté : PNG ou JPEG (pas de SVG).;Accepted format: PNG or JPEG (no SVG).;;;2
+Immobilisation introuvable ou déjà sortie.;Fixed asset not found or already disposed of.;;;2
+La date de début est après la date de fin.;The start date is after the end date.;;;2
+Motif de l'annulation (erreur de saisie) :;Reason for cancelling (data entry error):;;;2
+Note trop longue (500 caractères maximum).;Note too long (500 characters maximum).;;;2
+Opérations du livre pas encore à la banque;Book transactions not at the bank yet;;;2
+✔ Le bilan est équilibré (actif = passif).;✔ The balance sheet is balanced (assets = liabilities).;;;2
+Autres achats (eau, électricité, carburant);Other purchases (water, electricity, fuel);;;2
+Banques : MTN MoMo (sous-compte, à valider);Banks: MTN MoMo (sub-account, to be validated);;;2
+Ce type de bien (terrain) ne s'amortit pas.;This type of asset (land) is not depreciated.;;;2
+Conflit de modification (avoir fournisseur);Edit conflict (supplier credit note);;;2
+Dettes financières et ressources assimilées;Financial debts and similar resources;;;2
+Dotations aux amortissements d'exploitation;Operating depreciation charges;;;2
+Ex. Assurance annuelle, loyer du trimestre…;E.g. annual insurance, quarterly rent…;;;2
+La double authentification est déjà active.;Two-factor authentication is already active.;;;2
+La livraison ne peut pas précéder la vente.;The delivery cannot be before the sale.;;;2
+Les pièces jointes demandent une connexion.;Attachments need a connection.;;;2
+Pour confirmer, tapez l'année de l'exercice;To confirm, type the year of the fiscal year;;;2
+Produit introuvable ou sans suivi de stock.;Product not found or not tracked in stock.;;;2
+Régularisation introuvable ou déjà annulée.;Adjustment not found or already cancelled.;;;2
+Rémunérations directes versées au personnel;Direct remuneration paid to staff;;;2
+Résultat des exercices non clôturés (perte);Result of unclosed fiscal years (loss);;;2
+Solde d'ouverture de la caisse (à ventiler);Cash register opening balance (to be allocated);;;2
+Toutes les lignes du relevé sont pointées ✔;All statement lines are matched ✔;;;2
+Valeur comptable des immobilisations cédées;Book value of fixed assets sold;;;2
+Aucun verrou : toute période est modifiable.;No lock: every period can be changed.;;;2
+Bon de livraison introuvable ou déjà annulé.;Delivery note not found or already cancelled.;;;2
+Catégorie de dépense inconnue ou désactivée.;Expense category unknown or disabled.;;;2
+Compte de résultat par soldes intermédiaires;Income statement by intermediate balances;;;2
+Emprunts auprès des établissements de crédit;Loans from credit institutions;;;2
+Indiquez le bénéficiaire ou une description.;Enter the payee or a description.;;;2
+La double authentification n'est pas active.;Two-factor authentication is not active.;;;2
+Publicité, publications, relations publiques;Advertising, publications, public relations;;;2
+TVA récupérable % (vide : réglage comptable);Recoverable VAT % (empty: accounting setting);;;2
+Aucun exercice terminé en attente de clôture.;No finished fiscal year waiting to be closed.;;;2
+Aucune limite de crédit accordée à ce client.;No credit limit granted to this customer.;;;2
+Aucune sauvegarde automatique pour le moment.;No automatic backup yet.;;;2
+Bâtiments industriels, agricoles, commerciaux;Industrial, agricultural and commercial buildings;;;2
+La reprise ne peut pas précéder la provision.;The reversal cannot be before the provision.;;;2
+Rémunérations d'intermédiaires et de conseils;Fees of intermediaries and consultants;;;2
+Résultat net identique à celui de la synthèse;Net result identical to the summary;;;2
+Seule la dernière clôture peut être rouverte.;Only the last closing can be reopened.;;;2
+⚠ Le bilan n'est pas équilibré : signalez-le.;⚠ The balance sheet is not balanced: report it.;;;2
+Charge constatée d'avance (j'ai payé d'avance);Prepaid expense (I paid in advance);;;2
+Il doit rester au moins un propriétaire actif.;At least one active owner must remain.;;;2
+La cession ne peut pas précéder l'acquisition.;The disposal cannot be before the acquisition.;;;2
+Laisser vide : valeur des marchandises rendues;Leave empty: value of the returned goods;;;2
+Le dépôt principal ne peut pas être désactivé.;The main warehouse cannot be disabled.;;;2
+Matériel et outillage industriel et commercial;Industrial and commercial equipment and tools;;;2
+Résultat des exercices non clôturés (bénéfice);Result of unclosed fiscal years (profit);;;2
+Seule une ligne non pointée peut être retirée.;Only an unmatched line can be removed.;;;2
+Un achat à crédit demande une date d'échéance.;A credit purchase needs a due date.;;;2
+Vous devez d'abord changer votre mot de passe.;You must change your password first.;;;2
+Vérifiez la connexion, puis rechargez la page.;Check the connection, then reload the page.;;;2
+Banques : Orange Money (sous-compte, à valider);Banks: Orange Money (sub-account, to be validated);;;2
+Choisir une image (PNG ou JPEG, 250 Ko au plus);Choose an image (PNG or JPEG, 250 KB at most);;;2
+Cochez la case et tapez l'année pour confirmer.;Tick the box and type the year to confirm.;;;2
+Comptes utilisés par les écritures automatiques;Accounts used by automatic entries;;;2
+Expliquez pourquoi cette ligne est à justifier.;Explain why this line needs to be justified.;;;2
+Je le possède déjà (reprise dans l'application);I already own it (taken over in the application);;;2
+La limite de crédit doit être un nombre entier.;The credit limit must be a whole number.;;;2
+Une dotation aux provisions ne s'étale pas ici.;A provision charge is not spread here.;;;2
+Une vente à crédit demande une date d'échéance.;A credit sale needs a due date.;;;2
+Valeur résiduelle estimée à la fin (0 si nulle);Estimated residual value at the end (0 if none);;;2
+Vous n'avez pas le droit de faire cette action.;You are not allowed to do this action.;;;2
+Amortissements des immobilisations incorporelles;Amortization of intangible assets;;;2
+Autres achats, transports et services extérieurs;Other purchases, transport and external services;;;2
+Connexion impossible : vous êtes hors connexion.;Cannot sign in: you are offline.;;;2
+Fixez d'abord le solde d'ouverture de ce compte.;First set the opening balance of this account.;;;2
+La date du devis ne peut pas être dans le futur.;The quote date cannot be in the future.;;;2
+La mise en service ne peut pas précéder l'achat.;The in-service date cannot be before the purchase.;;;2
+Lot concerné (casse, péremption : retire du lot);Batch concerned (breakage, expiry: removes from the batch);;;2
+Capital, réserves, comptes d'associés et emprunts;Capital, reserves, partners' accounts and loans;;;2
+Ce nom est déjà utilisé : choisissez-en un autre.;This name is already used: choose another one.;;;2
+Cet achat a des règlements : annulez-les d'abord.;This purchase has payments: cancel them first.;;;2
+Cette fiche a été modifiée par quelqu'un d'autre.;This record was changed by someone else.;;;2
+Cette raison ajoute du stock : quantité positive.;This reason adds stock: positive quantity.;;;2
+La date du relevé ne peut pas être dans le futur.;The statement date cannot be in the future.;;;2
+Limite de crédit (GNF) — 0 : aucun crédit accordé;Credit limit (GNF) — 0: no credit granted;;;2
+Produit constaté d'avance (j'ai facturé d'avance);Deferred income (I invoiced in advance);;;2
+Un achat au comptant demande un mode de paiement.;A cash purchase needs a payment method.;;;2
+Un devis ne change ni le stock ni la comptabilité;A quote changes neither stock nor accounting;;;2
+Ajoutez d'abord un deuxième dépôt (bouton Dépôts).;First add a second warehouse (Warehouses button).;;;2
+Demandez l'accord du propriétaire ou du comptable.;Ask the owner or the accountant for approval.;;;2
+La date de cession ne peut pas être dans le futur.;The disposal date cannot be in the future.;;;2
+La date de l'achat ne peut pas être dans le futur.;The purchase date cannot be in the future.;;;2
+La validité ne peut pas précéder la date du devis.;The validity cannot be before the quote date.;;;2
+Origine : achat ou reprise d'un bien déjà possédé.;Origin: purchase or takeover of an asset already owned.;;;2
+Une vente au comptant demande un mode de paiement.;A cash sale needs a payment method.;;;2
+Comptes courants d'associés (apports, prélèvements);Partners' current accounts (contributions, withdrawals);;;2
+Fournisseurs débiteurs (avances et acomptes versés);Suppliers in debit (advances and deposits paid);;;2
+Immobilisation introuvable, déjà sortie ou annulée.;Fixed asset not found, already disposed of or cancelled.;;;2
+Informations de l'entreprise (en-tête des factures);Company information (invoice header);;;2
+La date d'ouverture ne peut pas être dans le futur.;The opening date cannot be in the future.;;;2
+La date de la vente ne peut pas être dans le futur.;The sale date cannot be in the future.;;;2
+La date du paiement ne peut pas être dans le futur.;The payment date cannot be in the future.;;;2
+Seuil d'alerte : prévenir quand le stock descend à…;Alert threshold: warn when stock falls to…;;;2
+− lignes du relevé non pointées (pas dans le livre);− unmatched statement lines (not in the books);;;2
+Autres éléments d'exploitation (comptes non classés);Other operating items (unclassified accounts);;;2
+La date de livraison ne peut pas être dans le futur.;The delivery date cannot be in the future.;;;2
+La date du mouvement ne peut pas être dans le futur.;The movement date cannot be in the future.;;;2
+La date du règlement ne peut pas être dans le futur.;The payment date cannot be in the future.;;;2
+Règlement de l'avoir : déduit du solde ou remboursé.;Credit note settlement: deducted from the balance or refunded.;;;2
+Code de vérification (application d'authentification);Verification code (authenticator app);;;2
+Date de mise en service (laisser vide = date d'achat);In-service date (leave empty = purchase date);;;2
+La date de l'écriture ne peut pas être dans le futur.;The entry date cannot be in the future.;;;2
+La date de la dépense ne peut pas être dans le futur.;The expense date cannot be in the future.;;;2
+Solde d'ouverture : espèces en caisse au départ (GNF);Opening balance: cash in the register at the start (GNF);;;2
+Tableau des flux : variation = trésorerie fin − début;Cash flow statement: change = closing cash − opening cash;;;2
+Achats stockés de matières et fournitures consommables;Stocked purchases of materials and consumable supplies;;;2
+Autoriser malgré la limite de crédit (sera journalisé);Allow despite the credit limit (will be logged);;;2
+Code de compte : 3 à 8 chiffres, commençant par 1 à 8.;Account code: 3 to 8 digits, starting with 1 to 8.;;;2
+Par taux (documents de la période, avoirs non déduits);By rate (documents of the period, credit notes not deducted);;;2
+Un remboursement demande un mode d'encaissement connu.;A refund needs a known collection method.;;;2
+Cet enregistrement a été modifié par quelqu'un d'autre.;This record was changed by someone else.;;;2
+Compte ajouté : fixez maintenant son solde d'ouverture.;Account added: now set its opening balance.;;;2
+Le nom complet est obligatoire (80 caractères maximum).;The full name is required (80 characters maximum).;;;2
+Règlement de l'avoir : déduit de la dette ou remboursé.;Credit note settlement: deducted from the debt or refunded.;;;2
+Une casse ou perte retire du stock : quantité négative.;Breakage or loss removes stock: negative quantity.;;;2
+Variation des stocks, créances et dettes d'exploitation;Change in stocks, receivables and operating payables;;;2
+Cochez « Autoriser malgré la limite » pour passer outre.;Tick “Allow despite the limit” to override.;;;2
+Le nom de la catégorie doit faire au moins 3 caractères.;The category name must be at least 3 characters.;;;2
+Le nouveau mot de passe doit être différent de l'ancien.;The new password must be different from the old one.;;;2
+Suivre le stock de ce produit (décocher pour un service);Track the stock of this product (untick for a service);;;2
+Acquisitions et cessions d'immobilisations (valeur brute);Acquisitions and disposals of fixed assets (gross value);;;2
+Une des opérations est déjà pointée avec une autre ligne.;One of the transactions is already matched with another line.;;;2
+Aucun produit suivi en stock : créez d'abord vos produits.;No product tracked in stock: create your products first.;;;2
+Ce dépôt contient encore du stock : transférez-le d'abord.;This warehouse still holds stock: transfer it first.;;;2
+L'année est terminée. Consultez l'aperçu avant de décider.;The year is over. Check the preview before deciding.;;;2
+Le nom du client est obligatoire (120 caractères maximum).;The customer name is required (120 characters maximum).;;;2
+J'ai lu les avertissements et je veux clôturer cet exercice;I have read the warnings and I want to close this fiscal year;;;2
+Code incorrect : vérifiez l'heure du téléphone et réessayez.;Wrong code: check your phone's time and try again.;;;2
+Jour du mois (le 31 devient le dernier jour des mois courts);Day of the month (the 31st becomes the last day of shorter months);;;2
+Motif : stock initial, retour client, casse ou perte, autre.;Reason: opening stock, customer return, breakage or loss, other.;;;2
+✔ Balance équilibrée : total des débits = total des crédits.;✔ Trial balance balanced: total debits = total credits.;;;2
+Ce devis a expiré : refaites-en un (les prix ont pu changer).;This quote has expired: make a new one (prices may have changed).;;;2
+Collez au moins une ligne de titres et une ligne d'opération.;Paste at least one header line and one transaction line.;;;2
+Note facultative (par ex. validé avec l'expert-comptable le …);Optional note (e.g. validated with the accountant on …);;;2
+Ce paiement (même référence, même montant) est déjà enregistré.;This payment (same reference, same amount) is already recorded.;;;2
+Valeurs comptables des cessions d'immobilisations incorporelles;Book values of intangible asset disposals;;;2
+Écriture de clôture déséquilibrée : clôture annulée (anomalie).;Unbalanced closing entry: closing cancelled (anomaly).;;;2
+Achat mis en attente : il sera envoyé au retour de la connexion.;Purchase queued: it will be sent when the connection is back.;;;2
+Ce règlement (même référence, même montant) est déjà enregistré.;This payment (same reference, same amount) is already recorded.;;;2
+Rien à étaler : la période se termine dans le mois de la dépense.;Nothing to spread: the period ends within the expense month.;;;2
+Aucun modèle. Exemples : loyer, abonnement internet, salaire fixe.;No template. Examples: rent, internet subscription, fixed salary.;;;2
+Compte de charge inconnu (classe 6, hors dotations et provisions).;Unknown expense account (class 6, excluding depreciation and provisions).;;;2
+Des reprises existent : annulez-les d'abord, ou reprenez le solde.;Reversals exist: cancel them first, or reverse the balance.;;;2
+Le prix du catalogue a changé depuis ce devis : refaites le devis.;The catalogue price has changed since this quote: make the quote again.;;;2
+Le remboursement est pointé avec un relevé : dépointez-le d'abord.;The refund is matched with a statement: unmatch it first.;;;2
+Ce logo figure sur les factures, reçus, devis et bons de livraison.;This logo appears on invoices, receipts, quotes and delivery notes.;;;2
+Produits en positif, charges en négatif (contribution au résultat).;Income as positive, expenses as negative (contribution to the result).;;;2
+Données fictives, sans identifiant. Choisissez le rôle à découvrir :;Fictitious data, no username. Choose the role to discover:;;;2
+Entrez le code à 6 chiffres de votre application d'authentification.;Enter the 6-digit code from your authenticator app.;;;2
+Le motif de la reprise est obligatoire (client payé, litige gagné…).;The reversal reason is required (customer paid, dispute won…).;;;2
+Le motif est obligatoire (marchandise défectueuse, erreur de prix…).;The reason is required (defective goods, price error…).;;;2
+Le total de la vente diffère de celui du devis : conversion refusée.;The sale total differs from the quote total: conversion refused.;;;2
+Produits hors activités ordinaires (dont cessions d'immobilisations);Non-operating income (incl. fixed asset disposals);;;2
+Seule une ligne de débit (sortie d'argent) peut devenir une dépense.;Only a debit line (money out) can become an expense.;;;2
+Vente mise en attente : elle sera envoyée au retour de la connexion.;Sale queued: it will be sent when the connection is back.;;;2
+Charges hors activités ordinaires (dont valeur comptable des cessions);Non-operating expenses (incl. book value of disposals);;;2
+Expliquez le mouvement dans la note (n° de bordereau, nom du client…).;Explain the movement in the note (slip number, customer name…).;;;2
+La période couverte commence au plus tôt le 1er du mois de la dépense.;The covered period starts on the 1st of the expense month at the earliest.;;;2
+La comptabilité est verrouillée : ces réglages ne peuvent plus changer.;Accounting is locked: these settings can no longer change.;;;2
+Pas encore de clôture : le premier comptage fixera le solde d'ouverture.;No closing yet: the first count will set the opening balance.;;;2
+"Déplace une quantité d'un dépôt à l'autre ; le stock total ne change pas.";"Moves a quantity from one warehouse to another; total stock does not change.";;;2
+Inventaire mis en attente : il sera enregistré au retour de la connexion.;Stock count queued: it will be recorded when the connection is back.;;;2
+Le nom du compte doit faire au moins 3 caractères (ex. « Virement UBA »).;The account name must be at least 3 characters (e.g. “UBA transfer”).;;;2
+Un rapprochement existe déjà : le solde d'ouverture ne peut plus changer.;A reconciliation already exists: the opening balance can no longer change.;;;2
+Mot de passe (10 caractères minimum, avec majuscule, minuscule et chiffre);Password (10 characters minimum, with uppercase, lowercase and a digit);;;2
+Un ajustement sur un lot ne peut que retirer du stock (casse, péremption).;An adjustment on a batch can only remove stock (breakage, expiry).;;;2
+Compte de charge : un compte de la classe 6 (hors dotations et provisions).;Expense account: a class 6 account (excluding depreciation and provisions).;;;2
+Identifiant : 3 à 40 caractères (lettres, chiffres, point, tiret, souligné).;Username: 3 to 40 characters (letters, digits, dot, hyphen, underscore).;;;2
+Le mot de passe doit mélanger majuscules, minuscules et au moins un chiffre.;The password must mix uppercase, lowercase and at least one digit.;;;2
+Amortissements : linéaires, au mois entier, durées par catégorie indicatives.;Depreciation: straight-line, by whole month, indicative lives per category.;;;2
+Avant le solde d'ouverture : ces lignes seront ignorées dans le rapprochement.;Before the opening balance: these lines will be ignored in the reconciliation.;;;2
+Une des opérations n'existe plus, est annulée ou n'appartient pas à ce compte.;One of the transactions no longer exists, is cancelled or does not belong to this account.;;;2
+Stocks : inventaire intermittent, valorisés au coût moyen d'achat (estimation).;Stock: periodic inventory, valued at average purchase cost (estimate).;;;2
+• Amortissements : linéaires, au mois entier, durées par catégorie indicatives.;• Depreciation: straight-line, by whole month, indicative lives per category.;;;2
+Ce virement est pointé avec un relevé : dépointez d'abord les lignes concernées.;This transfer is matched with a statement: unmatch the lines concerned first.;;;2
+Le bilan n'est pas équilibré : il y a une anomalie à corriger avant de clôturer.;The balance sheet is not balanced: there is an anomaly to fix before closing.;;;2
+Catégorie personnalisée introuvable (les catégories de base ne se modifient pas).;Custom category not found (built-in categories cannot be changed).;;;2
+• Stocks : inventaire intermittent, valorisés au coût moyen d'achat (estimation).;• Stock: periodic inventory, valued at average purchase cost (estimate).;;;2
+− opérations du livre non pointées (pas à la banque : chèques, dépôts en transit);− unmatched book transactions (not at the bank: cheques, deposits in transit);;;2
+La balance n'est pas équilibrée : il y a une anomalie à corriger avant de clôturer.;The trial balance is not balanced: there is an anomaly to fix before closing.;;;2
+Pour un bien déjà possédé, la mise en service d'origine précède la date de reprise.;For an asset already owned, the original in-service date comes before the takeover date.;;;2
+"Un modèle prépare la dépense de chaque mois ; vous validez la génération vous-même.";"A template prepares each month's expense; you confirm the generation yourself.";;;2
+Cette vente a des paiements ou des avoirs : annulez-les d'abord (ou faites un avoir).;This sale has payments or credit notes: cancel them first (or issue a credit note).;;;2
+Avant de pointer, fixez le solde d'ouverture : le solde du compte à une date de départ.;Before matching, set the opening balance: the account balance at a starting date.;;;2
+Comptabilité tenue en partie double, écritures déduites des documents de l'application.;Double-entry bookkeeping, entries derived from the application's documents.;;;2
+Faire la première clôture de caisse (compter les espèces et fixer le solde d'ouverture).;Do the first cash register closing (count the cash and set the opening balance).;;;2
+Un devis ne change ni le stock ni la comptabilité tant qu'il n'est pas converti en vente.;A quote changes neither stock nor accounting until it is converted into a sale.;;;2
+Variation de stock (inventaire intermittent, valorisé au coût moyen d'achat : estimation);Change in stock (periodic inventory, valued at average purchase cost: estimate);;;2
+• Comptabilité tenue en partie double, écritures déduites des documents de l'application.;• Double-entry bookkeeping, entries derived from the application's documents.;;;2
+TVA sur achats en % (0 : pas de TVA récupérable). À confirmer avec votre expert-comptable.;VAT on purchases in % (0: no recoverable VAT). To be confirmed with your accountant.;;;2
+Le mot de passe provisoire donné par le propriétaire doit être remplacé avant de continuer.;The temporary password given by the owner must be replaced before continuing.;;;2
+Première clôture : indiquez les espèces qui étaient en caisse au départ (solde d'ouverture).;First closing: enter the cash that was in the register at the start (opening balance).;;;2
+Dépense enregistrée, mais la période de caisse était déjà clôturée : signalé dans le journal.;Expense recorded, but the cash period was already closed: flagged in the audit log.;;;2
+Taux de taxe inclus dans les prix, en % (0 : aucun) — à confirmer avec votre expert-comptable;Tax rate included in prices, in % (0: none) — to be confirmed with your accountant;;;2
+Indiquez ce qui est réellement remis aujourd'hui. Le stock ne bouge pas (déjà sorti à la vente).;Enter what is actually handed over today. Stock does not move (already out at the sale).;;;2
+Mode de règlement : un moyen de paiement, « owner » (payé par le patron) ou « credit » (à payer).;Payment mode: a payment method, “owner” (paid by the owner) or “credit” (to be paid).;;;2
+Laisser en « résultat en instance d'affectation » (compte 131/139) : décision de l'assemblée à venir;Leave as “result pending allocation” (account 131/139): decision of the general meeting to come;;;2
+Le mode démonstration (sans identifiant) est refusé en réseau : il ne tourne que sur cet ordinateur.;Demonstration mode (no sign-in) is refused on the network: it only runs on this computer.;;;2
+MODE DÉMONSTRATION : données fictives, entrée sans identifiant, base jetable (dossier donnees_demo).;DEMONSTRATION MODE: fictitious data, sign-in without a username, disposable database (donnees_demo folder).;;;2
+"TVA de ce produit en % (vide : taux de l'entreprise ; 0 : exonéré). Le taux est figé sur chaque vente.";"VAT of this product in % (empty: company rate; 0: exempt). The rate is frozen on each sale.";;;2
+Amortissements, dépréciations et provisions (charges sans décaissement, nettes des reprises et sorties);Depreciation, impairment and provisions (non-cash charges, net of reversals and disposals);;;2
+"Estimation : le coût d'achat utilise le coût moyen des achats saisis ; ce n'est pas un résultat comptable.";"Estimate: the purchase cost uses the average cost of recorded purchases; it is not an accounting result.";;;2
+Seuls les paiements en espèces comptent : Orange Money, MTN MoMo, virements et chèques n'entrent pas dans la caisse.;Only cash payments count: Orange Money, MTN MoMo, transfers and cheques do not go into the cash register.;;;2
+Un client très rentable qui paie mal l'est moins qu'il n'y paraît : regardez le reste dû et la fiabilité de paiement.;A very profitable customer who pays badly is less profitable than it looks: check the balance due and the payment reliability.;;;2
+Chaque échéance crée une vraie dépense (numéro DP, écritures, journal). Un mois déjà généré ne l'est jamais deux fois.;Each due date creates a real expense (DP number, entries, audit log). A month already generated is never generated twice.;;;2
+Le compte 603 (variation de stocks) vient de l'inventaire calculé : stock valorisé au coût moyen d'achat (estimation).;Account 603 (change in stocks) comes from the computed stock count: stock valued at average purchase cost (estimate).;;;2
+Une perte ne peut pas être affectée aux réserves : choisissez le report à nouveau ou laissez-la en résultat à affecter.;A loss cannot be allocated to reserves: choose retained earnings or leave it as result to be allocated.;;;2
+Dans votre application d'authentification, ajoutez un compte « saisie manuelle » avec cette clé (type : basé sur le temps) :;In your authenticator app, add an account using “manual entry” with this key (type: time-based):;;;2
+Première ligne = titres des colonnes, avec au minimum : Date, Libellé, Débit et Crédit (ou Montant), Référence (facultatif).;First line = column headings, with at least: Date, Description, Debit and Credit (or Amount), Reference (optional).;;;2
+La comptabilité est verrouillée (ou un exercice est clôturé) : changer le taux de taxe modifierait les écritures déjà arrêtées.;Accounting is locked (or a fiscal year is closed): changing the tax rate would change entries that are already final.;;;2
+"Chaque achat entre dans un dépôt et chaque vente en sort d'un ; le stock total est la somme. Le dépôt principal existe toujours.";"Each purchase enters a warehouse and each sale leaves one; total stock is the sum. The main warehouse always exists.";;;2
+Chaque appareil connecté à votre compte. Une connexion que vous ne reconnaissez pas ? Fermez-la, puis changez votre mot de passe.;Every device connected to your account. A session you do not recognise? Close it, then change your password.;;;2
+"Taux saisis par vous, à confirmer auprès de l'administration fiscale. Cet état aide à préparer la déclaration ; il ne la remplace pas.";"Rates entered by you, to be confirmed with the tax authority. This statement helps prepare the return; it does not replace it.";;;2
+Repère indicatif seulement : 50 % du reste dû dès 90 jours de retard, 100 % dès 180 jours. Décidez vous-même, avec votre expert-comptable.;Indicative guide only: 50% of the balance due from 90 days late, 100% from 180 days. Decide yourself, with your accountant.;;;2
+Export complet de Gestion libre : un fichier CSV par table (séparateur point-virgule, UTF-8). Les mots de passe et sessions ne sont jamais exportés.;Full export of Gestion libre: one CSV file per table (semicolon separator, UTF-8). Passwords and sessions are never exported.;;;2
+Situation cumulée depuis l'ouverture des livres. Un solde de caisse ou de banque au passif signale un découvert ou des soldes d'ouverture manquants.;Cumulative position since the books were opened. A cash or bank balance on the liabilities side signals an overdraft or missing opening balances.;;;2
+Enregistrées dans l'application mais pas (encore) sur le relevé : chèques émis non débités, remises en transit, ou lignes du relevé pas encore importées.;Recorded in the application but not (yet) on the statement: cheques issued but not debited, deposits in transit, or statement lines not imported yet.;;;2
+Première installation : créez le compte du propriétaire. Il pourra ensuite créer les comptes de l'équipe et consulter le journal de tout ce qui est fait.;First installation: create the owner account. They can then create the team's accounts and view the log of everything that is done.;;;2
+Choisissez la langue de l'interface (mémorisée sur cet appareil). Les documents imprimés (factures, devis, PDF) suivent la langue réglée pour l'entreprise.;Choose the interface language (remembered on this device). Printed documents (invoices, quotes, PDFs) follow the language set for the company.;;;2
+À la vente, le stock sort du lot qui périme le premier, jamais d'un lot périmé. Indiquez le n° de lot et la date de péremption quand vous saisissez un achat.;At the sale, stock leaves from the batch that expires first, never from an expired batch. Enter the batch number and the expiry date when you record a purchase.;;;2
+Faites valider le plan de comptes, les comptes d'imputation, les taux de TVA et la valorisation du stock par votre expert-comptable avant de clôturer pour de bon.;Have your accountant validate the chart of accounts, the posting accounts, the VAT rates and the stock valuation before closing for good.;;;2
+Document de travail inspiré du SYSCOHADA, établi sans accès au texte officiel complet : à faire valider par un expert-comptable avant tout usage officiel ou déclaratif.;Working document inspired by SYSCOHADA, prepared without access to the full official text: have it validated by a chartered accountant before any official or tax use.;;;2
+Ajoute un second verrou : même si votre mot de passe est volé, il faut aussi le code de votre téléphone (Google Authenticator, Microsoft Authenticator, Aegis, FreeOTP…).;Adds a second lock: even if your password is stolen, the code from your phone is also needed (Google Authenticator, Microsoft Authenticator, Aegis, FreeOTP…).;;;2
+Outil de travail inspiré du plan SYSCOHADA, établi sans accès au texte officiel complet : à faire valider par un expert-comptable avant tout usage officiel ou déclaratif.;Working tool inspired by the SYSCOHADA chart of accounts, built without access to the full official text: have it validated by a chartered accountant before any official or tax use.;;;2
+Repère calculé sur les retards passés (note sur 100). « Risqué » : exiger un acompte ou réduire la limite de crédit. Les clients sans assez d'historique ne sont pas notés.;Guide computed from past delays (score out of 100). “Risky”: require a deposit or reduce the credit limit. Customers without enough history are not scored.;;;2
+Présentation inspirée de la structure SYSCOHADA, sans les rubriques, codes et notes annexes officiels : à faire établir et valider par un expert-comptable avant tout dépôt.;Presentation inspired by the SYSCOHADA structure, without the official headings, codes and notes: have it prepared and validated by a chartered accountant before any filing.;;;2
+Situation cumulée depuis l'ouverture des livres : les exercices clôturés sont reportés dans les comptes de capitaux (résultat en instance d'affectation ou report à nouveau).;Cumulative position since the books were opened: closed fiscal years are carried into the equity accounts (result pending allocation or retained earnings).;;;2
+Comptez chaque produit en rayon et saisissez la quantité. Laissez vide ce que vous n'avez pas compté. Seuls les écarts sont enregistrés, et chaque correction est journalisée.;Count each product on the shelf and enter the quantity. Leave empty what you have not counted. Only the differences are recorded, and every correction is logged.;;;2
+• Présentation inspirée de la structure SYSCOHADA, sans les rubriques, codes et notes annexes officiels : à faire établir et valider par un expert-comptable avant tout dépôt.;• Presentation inspired by the SYSCOHADA structure, without the official headings, codes and notes: have it prepared and validated by a chartered accountant before any filing.;;;2
+Méthode indirecte simplifiée. La trésorerie regroupe banque, mobile money et caisse. Le produit d'une cession figure dans le résultat et les amortissements, non dans l'investissement.;Simplified indirect method. Cash combines bank, mobile money and the cash register. The proceeds of a disposal appear in the result and depreciation, not in investing.;;;2
+Ventes actives de la période, montants TTC (hors taxe : taxe incluse retirée ligne par ligne). « Encaissé » et « reste dû » valent à ce jour. Les remises se mesurent au prix catalogue.;Active sales of the period, amounts including tax (excluding tax: included tax removed line by line). “Collected” and “balance due” are as of today. Discounts are measured against the catalogue price.;;;2
+De l'argent qui change de compte : ce n'est ni une dépense ni une vente. Il sera à pointer des deux côtés avec les relevés. Pour les espèces, utilisez un mouvement de caisse (dépôt ou retrait).;Money moving from one account to another: it is neither an expense nor a sale. It will have to be matched on both sides with the statements. For cash, use a cash movement (deposit or withdrawal).;;;2
+Un bien durable (matériel, véhicule, local…) n'est pas une dépense du mois : il est inscrit à l'actif puis amorti sur sa durée d'utilisation. Les durées proposées sont indicatives : faites-les valider.;A durable asset (equipment, vehicle, premises…) is not a monthly expense: it is recorded as an asset then depreciated over its useful life. The proposed lives are indicative: have them validated.;;;2
+Comptez chaque produit en rayon et saisissez la quantité. Laissez vide ce que vous n'avez pas compté. Seuls les écarts sont enregistrés, et chaque correction est journalisée. On inventorie un dépôt à la fois.;Count each product on the shelf and enter the quantity. Leave empty what you have not counted. Only the differences are recorded, and every correction is logged. One warehouse is counted at a time.;;;2
+Le nom devient un mode de paiement : choisissez-le sur un paiement, une dépense ou un achat pour le ranger sur ce compte, qui aura son propre rapprochement et son propre compte comptable (créé automatiquement).;The name becomes a payment method: choose it on a payment, an expense or a purchase to file it under this account, which will have its own reconciliation and its own ledger account (created automatically).;;;2
+Une dépense payée d'avance (assurance, loyer d'un trimestre) ne pèse sur le résultat que mois par mois, au prorata des jours. La période commence au plus tôt le 1er du mois de la dépense et finit après ce mois.;An expense paid in advance (insurance, a quarter's rent) weighs on the result only month by month, pro rata by days. The period starts on the 1st of the expense month at the earliest and ends after that month.;;;2
+"Hypothèse : chaque facture client est payée à son échéance (optimiste pour les clients peu fiables) et chaque dette fournisseur réglée à la sienne ; ne comprend ni les ventes futures ni les dépenses non récurrentes.";"Assumption: each customer invoice is paid on its due date (optimistic for unreliable customers) and each supplier debt is settled on its own; excludes future sales and non-recurring expenses.";;;2
+"Vos données sont à vous. L'export CSV (une table par fichier, sans mots de passe) vous permet de les sortir à tout moment. La sauvegarde complète (base entière) se restaure telle quelle ; gardez-en une copie HORS de cet ordinateur.";"Your data is yours. The CSV export (one table per file, no passwords) lets you take it out at any time. The full backup (whole database) restores as is; keep a copy OUTSIDE this computer.";;;2
+Méthode : linéaire, au mois entier à partir du mois de mise en service, dotation comptabilisée en fin de mois. Les durées par catégorie sont indicatives. Pas de distinction entre amortissement comptable et fiscal. À valider avec votre expert-comptable.;Method: straight-line, by whole month from the in-service month, charge booked at month end. Lives per category are indicative. No distinction between book and tax depreciation. To be validated with your accountant.;;;2
+"Comptes : dotation 691 contre 491 (créances), 391 (stocks), 191 (litiges), 198 (autres risques) ; reprise 791. Les comptes sont indicatifs. La déductibilité fiscale des provisions obéit à des règles propres, non traitées ici : à voir avec votre expert-comptable.";"Accounts: charge 691 against 491 (receivables), 391 (stock), 191 (disputes), 198 (other risks); reversal 791. The accounts are indicative. The tax deductibility of provisions follows its own rules, not handled here: check with your accountant.";;;2
+Situation cumulée depuis l'ouverture des livres : les exercices clôturés sont reportés dans les comptes de capitaux (résultat en instance d'affectation ou report à nouveau). Un compte de caisse ou de banque au passif signale un solde négatif ou des soldes d'ouverture manquants.;Cumulative position since the books were opened: closed fiscal years are carried into the equity accounts (result pending allocation or retained earnings). A cash or bank account on the liabilities side signals a negative balance or missing opening balances.;;;2
+Méthode : la dépense est sortie du résultat le jour où elle est comptabilisée (compte 476), puis chaque fin de mois la part du mois y retourne, au prorata des jours (arrondis exacts). Au bilan, le reste est un actif (charge d'avance) ou une dette (produit d'avance). À faire valider par votre expert-comptable.;Method: the expense leaves the result on the day it is booked (account 476), then at each month end the month's share goes back in, pro rata by days (exact rounding). On the balance sheet, the rest is an asset (prepaid expense) or a liability (deferred income). Have it validated by your accountant.;;;2
+L'exercice est l'année civile (1er janvier au 31 décembre). Clôturer, c'est arrêter les comptes de l'année : on solde les charges et les produits, on enregistre le résultat, on reporte les soldes du bilan sur l'année suivante et on verrouille la période. Faites-le avec votre expert-comptable, après avoir clôturé la caisse, rapproché la banque et compté le stock.;The fiscal year is the calendar year (1 January to 31 December). Closing means finalising the year's accounts: expenses and income are cleared, the result is recorded, balance sheet balances are carried to the next year and the period is locked. Do it with your accountant, after closing the cash register, reconciling the bank and counting the stock.;;;2
+"Chiffre d'affaires hors taxe ; coût = quantité vendue × coût moyen d'achat hors taxe (estimation). Les produits jamais achetés et les lignes libres n'ont pas de coût connu : leur chiffre d'affaires est compté à part, sans marge. Les avoirs ne sont pas déduits. Si vous facturez de la TVA mais que la TVA récupérable sur achats est à 0 dans les réglages comptables, le coût reste taxe comprise : la marge affichée est alors minorée (réglez la TVA des achats avec votre expert-comptable).";"Revenue excluding tax; cost = quantity sold × average purchase cost excluding tax (estimate). Products never bought and free-text lines have no known cost: their revenue is counted separately, without margin. Credit notes are not deducted. If you charge VAT but recoverable VAT on purchases is 0 in the accounting settings, the cost stays tax-inclusive: the margin shown is then understated (set the VAT on purchases with your accountant).";;;2

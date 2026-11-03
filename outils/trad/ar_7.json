@@ -1,0 +1,10 @@
+{
+ "🔒 Base chiffrée (AES-256) :": "🔒 قاعدة البيانات مشفّرة (AES-256):",
+ "Les sauvegardes sont chiffrées avec la même clé : sans elle, elles sont illisibles.": "النسخ الاحتياطية مشفّرة بالمفتاح نفسه: بدونه لا يمكن قراءتها.",
+ "⚠ Base NON chiffrée.": "⚠ قاعدة البيانات غير مشفّرة.",
+ "⚠ Base NON chiffrée : bibliothèque de chiffrement absente.": "⚠ قاعدة البيانات غير مشفّرة: مكتبة التشفير غير موجودة.",
+ "clé protégée par Windows": "مفتاح محمي بواسطة Windows",
+ "clé dérivée d'une phrase de passe": "مفتاح مشتق من عبارة مرور",
+ "clé dans un fichier": "مفتاح في ملف",
+ "Anciennes copies en clair à supprimer vous-même, après vérification : dossier clair_a_supprimer.": "نسخ قديمة غير مشفّرة تحذفها بنفسك بعد التحقق: المجلد clair_a_supprimer."
+}

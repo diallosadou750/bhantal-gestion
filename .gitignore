@@ -1,0 +1,25 @@
+.venv*/
+__pycache__/
+*.pyc
+.pytest_cache/
+donnees/
+donnees_test/
+*.sqlite*
+*.db
+*.log
+*.err
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.dpapi
+.env*
+!.env.example
+
+# jamais publies : donnees d'essai, reglages locaux, dossier propre a l'entreprise
+.pgtest/
+.claude/
+donnees_demo/
+DOSSIER_EXPERT_COMPTABLE.md
+essai_bhantal/
+acces_distance/

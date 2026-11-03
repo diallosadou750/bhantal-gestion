@@ -1,0 +1,16 @@
+body { font: 14px/1.4 system-ui, "Segoe UI", Arial, sans-serif; color: #111; margin: 0; background: #eee; }
+.bar { padding: 10px 16px; background: #1e5b2b; }
+.bar button { font: inherit; padding: 10px 16px; border-radius: 8px; border: 0; background: #fff; color: #1e5b2b; font-weight: 700; cursor: pointer; }
+.doc { background: #fff; max-width: 800px; margin: 16px auto; padding: 28px 32px; box-shadow: 0 1px 6px rgba(0,0,0,.15); position: relative; }
+header { display: flex; justify-content: space-between; gap: 16px; border-bottom: 3px solid #1e5b2b; padding-bottom: 10px; margin-bottom: 14px; }
+h1 { font-size: 20px; margin: 0; color: #1e5b2b; } h2 { font-size: 20px; margin: 0; color: #b3167a; } h3 { font-size: 14px; margin: 14px 0 4px; }
+.right { text-align: right; } .muted { color: #555; margin: 2px 0; }
+table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+th, td { border-bottom: 1px solid #ddd; padding: 6px 8px; text-align: left; } th { background: #f1f4f1; }
+.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.total td { font-weight: 800; font-size: 16px; border-top: 2px solid #111; }
+.small td { font-size: 13px; } .doclogo { max-height: 70px; max-width: 180px; display: block; margin-bottom: 6px; } td.sign { height: 90px; width: 50%; } .balance { font-size: 16px; margin-top: 14px; } .big { font-size: 20px; }
+.docsignature { margin-top: 14px; margin-left: auto; width: 190px; text-align: center; break-inside: avoid; } .docsignature p { margin: 0 0 3px; font-size: 12px; color: #555; } .docsignature img { max-width: 180px; max-height: 85px; object-fit: contain; }
+.stamp { position: absolute; top: 120px; right: 40px; transform: rotate(-12deg); border: 4px solid #b3261e; color: #b3261e; font-size: 34px; font-weight: 800; padding: 4px 14px; opacity: .8; }
+footer { margin-top: 30px; border-top: 1px solid #ddd; padding-top: 8px; }
+@media print { body { background: #fff; } .bar { display: none; } .doc { box-shadow: none; margin: 0; max-width: none; padding: 0; } }
